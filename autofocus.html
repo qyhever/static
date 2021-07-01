@@ -7,10 +7,13 @@
   <title></title>
 </head>
 <body>
+  <p>autofocus</p>
   <input type="text" id="txt">
   <script>
     const txt = document.getElementById('txt')
-    txt.focus()
+    setTimeout(() => {
+      txt.focus()
+    }, 20)
   </script>
 </body>
 </html>

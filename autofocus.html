@@ -11,10 +11,7 @@
   <input type="text" id="txt">
   <script>
     const txt = document.getElementById('txt')
-    setTimeout(() => {
-      txt.focus()
-    }, 20)
-    document.addEventListener('touchstart', function() {
+    document.addEventListener('click', function() {
       txt.focus()
     })
   </script>

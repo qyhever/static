@@ -7,13 +7,16 @@
   <title></title>
 </head>
 <body>
-  <p>autofocus</p>
+  <p>autofocus02</p>
   <input type="text" id="txt">
   <script>
     const txt = document.getElementById('txt')
     setTimeout(() => {
       txt.focus()
     }, 20)
+    document.addEventListener('touchstart', function() {
+      txt.focus()
+    })
   </script>
 </body>
 </html>

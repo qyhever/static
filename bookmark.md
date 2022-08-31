@@ -24,6 +24,7 @@
   - [vue-cli](#vue-cli)
 - [react](#react)
 - [react-hooks](#react-hooks)
+- [frame](#frame)
 - [状态管理](#状态管理)
 - [typescript](#typescript)
 - [webapi](#webapi)
@@ -63,11 +64,11 @@
   - [blog](#blog)
   - [资源存储](#资源存储)
   - [笔记](#笔记)
-- [面试](#面试-1)
 - [设计](#设计)
 - [工程化](#工程化-1)
 - [VR](#vr)
 - [微前端](#微前端)
+- [微服务](#微服务)
 - [lowcode](#lowcode)
 - [功能实现](#功能实现)
 - [单元测试](#单元测试)
@@ -78,7 +79,9 @@
 - [地图](#地图)
 - [可视化](#可视化)
 - [元宇宙](#元宇宙)
+- [鸿蒙](#鸿蒙)
 - [go](#go)
+- [java](#java)
 - [项目管理](#项目管理)
 - [观点/评论](#观点评论)
 
@@ -89,6 +92,8 @@
 - [x86,x64,x86-64,amd64,arm指令集架构之间的关系](https://mp.weixin.qq.com/s?__biz=MzUzNzE1Njc3Mw==&mid=2247484130&idx=1&sn=d77f1aca12d21cae3a6d0c2d1b6d3ffd&chksm=faea0f28cd9d863e88f95f0933c6ccfbb31e29a4fc4d1f331344ae0b01acdd14e2564a8ff6f1&mpshare=1&scene=24&srcid=1129sTETuu8HVaHp9lvdqI2C&sharer_sharetime=1638154088703&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [前端不懂进程通信？看完这篇就懂了](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247492838&idx=2&sn=a8ddc2b5a915e079808c80ba3733701d&chksm=97812a6fa0f6a379a7e4f570c9297896cece827a94ed4eb8eef3ea325c356a6e14d58572438b&mpshare=1&scene=24&srcid=08103SxtrC44QybGXQBth5PP&sharer_sharetime=1628603255055&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [【第2259期】深入理解web协议：http 包体传输](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245538&idx=1&sn=da668f58986097fc497daa24862aedd7&chksm=bd4912668a3e9b70a4f2124e213ed44469d92bda4eb556305fcdaf71462d5c1840a5fa3dd4d1&mpshare=1&scene=24&srcid=04205uYqJgyn6b8rPhG64dlG&sharer_sharetime=1618877585785&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [10 张图打开 CPU 缓存一致性的大门](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458075686&idx=3&sn=8e9d2c26ac83093a054752375c5a5442&chksm=b187d45b86f05d4da34c43e099e63ce158317002851407ec08b54da09d99de9fe7519b705a17&mpshare=1&scene=24&srcid=0112QgkJVBZJQ7naZcUAjhtA&sharer_sharetime=1610411036384&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [手把手教你用 nodejs 撸一个TCP长连接应用](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247490232&idx=1&sn=d4e6da0f51002ebc45d35273dfbb7a98&chksm=9782d431a0f55d27bafbb3ecc3851d5ce62653c6185dce65ec583b78ef2d932f09fb2f3dcbc0&mpshare=1&scene=24&srcid=1225NRSTWj09IfDUVlTVl4Dj&sharer_sharetime=1608855447211&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
 ## 浏览器
@@ -98,6 +103,7 @@
 
 ## css
 ### css
+- [【第2159期】使用Lottie 快速开发动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242706&idx=1&sn=3f9f5f23f50f967ec90c9143f4d1e50d&chksm=bd4919568a3e9040ec8e542227c49c12b2d120db7d814b262855daa6e4cc7bcb0546f5e1eb07&mpshare=1&scene=24&srcid=1226jICNDBjQMmlSJaFYaXNM&sharer_sharetime=1608993836512&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [CSS实现微信朋友圈的九宫格图片自适应](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458081695&idx=2&sn=6a95d6952a5df8dddf100a96a4815c78&chksm=b187cfe286f046f405c6b427aa100c02b3a2bfe79ed53ebd87747778837968600e2d68459ed4&mpshare=1&scene=24&srcid=12295xqiODfeGYKrtTaaFvfP&sharer_sharetime=1640737096183&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [纯 CSS 实现科技感十足的暗黑字符雨动画](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247487691&idx=1&sn=0a626c2f230554e448f29d9a5918a27f&chksm=c0253d9df752b48b5536e1b49be8c7d59eb041d336431c9e06f530951f9f51d1af17027f67e5&mpshare=1&scene=24&srcid=0819vgssdnJLWcp22bGwwik4&sharer_sharetime=1629332155181&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [介绍下 BFC 布局规则，除此之外，你还知道哪些 CSS 格式化上下文](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247502886&idx=2&sn=3858c31454a900b67e5abf816cb5455d&chksm=9031cfc4a74646d2086e931535a3232de45dc4a003926967b00ce5ba90ce70d59eb5ea48b011&mpshare=1&scene=24&srcid=0807RyeYTAtCR3NfGvm9lqes&sharer_sharetime=1628330190842&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
@@ -183,6 +189,9 @@
 - [图文并茂，一文读懂 React 组件渲染核心原理](http://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247493463&idx=1&sn=4dc9dc46199e4f6ffbb21056d0486c6a&chksm=978129dea0f6a0c8920c6f785a5be65ff0e346c1d04f9843e81976005b48fce598c4f6be6901&mpshare=1&scene=24&srcid=1028vlMABZvhHFUzcJMRcaRG&sharer_sharetime=1635402804964&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
+## frame
+- [【第2163期】增量 DOM 与虚拟 DOM 的对比使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242811&idx=1&sn=b3de168eb6fbf3c2d5c7840b6ae074f6&chksm=bd4918bf8a3e91a97105413f7f2d6a4bd8661c407426e60136656d6278ca3bf41445ff4df7cf&mpshare=1&scene=24&srcid=1230dDgBfbvM9nDmAkLealUv&sharer_sharetime=1609287451209&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+
 ## 状态管理
 - [第2426期】各流派React状态管理对比和原理实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651249747&idx=1&sn=2c6612e6208ad69dbf772a1f868da041&chksm=bd4905d78a3e8cc1ba4127cad653318b91f0029af1d9c06952f88b1fb4a91729f450ffd16ba2&mpshare=1&scene=24&srcid=10181x8lEtpFPZeDG5xitoxW&sharer_sharetime=1634551809242&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [组长让我把所有state都放Redux里](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247488051&idx=2&sn=15dd6d674bb61abb134d335ac290ae1d&chksm=ebf9e5e9dc8e6cff851aa5053a24d5930d413a01495eb323ed812f7095e588131cbd664396e2&mpshare=1&scene=24&srcid=0719PBOWJ70LHiCJHvmdask2&sharer_sharetime=1626740607070&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
@@ -221,7 +230,7 @@
 - [那些你应该说再见的 npm 祖传老库](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500224&idx=2&sn=8c8b8139067ad237c86254cacc62f137&chksm=f992c711cee54e07876a802cf88935f4440425e4f71d3e163dfdf2591ca05815d181a4cdcac7&mpshare=1&scene=24&srcid=1026oBWedJAEpbP8cbmtmlQF&sharer_sharetime=1635220089550&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [动图展示 60+ 个前端常用插件库合集](https://mp.weixin.qq.com/s?__biz=MzI2ODUxMzg4Nw==&mid=2247492964&idx=1&sn=c6bdc8c8c0f32878520a1549c0d7a893&chksm=eaecc254dd9b4b427baddea42f8abf9bdbc9d1d25b79eac2d05e57238f0dbaab89e84ab4f27f&mpshare=1&scene=24&srcid=06309NzDv06DINKtDIU5KZQl&sharer_sharetime=1625058721750&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [50 个让你高效编程的前端轮子](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247494484&idx=2&sn=71fc9d89be92e85e4abfbf3be6d799bd&chksm=9031e8b6a74661a08c615272c00762492de6a0df5f2f8d4bf19f8b82704f3d020f081cbabc8d&mpshare=1&scene=24&srcid=04064447wD4ELGtzncEqO9rc&sharer_sharetime=1617704081919&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
-- []()
+- [如何使用mediaDevices API切换摄像头的示例](https://github.com/philnash/mediadevices-camera-selection)
 
 ## web
 - [现代 Web 开发困局](http://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247493548&idx=1&sn=317221ef8a5c99c893c84e2c2090abad&chksm=97812925a0f6a0337e90d068e7a3dec3994049f708c25b261f4dffb2aec9a7f864309ed7372a&mpshare=1&scene=24&srcid=1112iaIZJUoxlp4sZN70dpqh&sharer_sharetime=1636712123238&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
@@ -236,6 +245,7 @@
 - [前端部署的灵魂拷问](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593783&idx=1&sn=e2c47fc720061885dfa5bd3bd7b0b5a2&chksm=8022cbf6b75542e09480a4947819c564caef3e393815782255b311c8716513298e9d54967688&mpshare=1&scene=24&srcid=0102qEP1Ec8oOcrl9EdUUlE9&sharer_sharetime=1641107011831&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [想要成为前端Star 吗？一首歌时间将React / Vue 应用Docker 化](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247488060&idx=1&sn=54e5382366c1186a363ab461e6276c30&chksm=ebf9e5e6dc8e6cf0014c911115178deadc36059470a2c119b5ddb0ce91784d30fa02f1e59f57&mpshare=1&scene=24&srcid=0721jp26jHOawEETdEs46ziD&sharer_sharetime=1626913053305&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [前端部署和提效：从静态到node再到负载均衡基础篇](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247496390&idx=1&sn=b1d7a28e546236a30ffd6b36aed18adf&chksm=f992f417cee57d012229769a81eec98ce65885568446e78bdb8848ff6655169c4df51b496b9e&mpshare=1&scene=24&srcid=070737lk0KX8zbRk3lAPlDVW&sharer_sharetime=1625617271017&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [手把手教你搭建一个灰度发布环境](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649828622&idx=1&sn=67b867ae0e47b72ec67c8e87e4379d9f&chksm=f175e7cdc6026edba46526caa9be0a1453cf79cbb8b2fd71f488ef0ff16c498d75d9c2d8566e&mpshare=1&scene=24&srcid=0717tYQjYdfut9SZBlWmsjW3&sharer_sharetime=1594960481370&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
 ## 构建
@@ -295,6 +305,7 @@
 
 ## 数据库
 - [一文理解 Redis 的核心原理与技术](https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652577942&idx=2&sn=d0d8b99b1d3dc19ad3297caeff9a59fa&chksm=846508dcb31281ca73d4d288e9af89004457e8b22a241e1bee3786ce88f9913404cd931d654d&mpshare=1&scene=24&srcid=0518SIjW084PGGELOkfAu7sg&sharer_sharetime=1621297241080&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [MySQL:互联网公司常用分库分表方案汇总](https://mp.weixin.qq.com/s?__biz=MzI0OTU3ODA3OA==&mid=2247484756&idx=2&sn=655ecead0ba848a295f1d80e476a376e&chksm=e98e1265def99b73cf5fe32795f3ec19c58b5c33d0f0d3c2f50ef21e9f571e74ef6bb863c901&mpshare=1&scene=24&srcid=09103aaUkFfGpF5xvCPB07lo&sharer_sharetime=1599733012559&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
 ## 权限控制
@@ -348,6 +359,7 @@
 - [梯度下降算法](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652581177&idx=2&sn=fca7b1095297e1213b097302befad8b5&chksm=84650573b3128c65277950f249faea2c4f86b17880631628cf1c0d4270cc76af2a7c6bd4f131&mpshare=1&scene=24&srcid=1110UeZr8xyie9YJHfSJkNQQ&sharer_sharetime=1636540010109&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [过滤/筛选树节点](https://mp.weixin.qq.com/s?__biz=MzA3NTE2OTUwMA==&mid=2649708352&idx=1&sn=f43f43b74bd10b25e14117527cb5c732&chksm=876f5cf3b018d5e5f021c589d5742c3bc16829d490a54bf4ac4e2309708a53611c4cb9bd95c7&mpshare=1&scene=24&srcid=0928JivG64AA3Sp3doxNMOgp&sharer_sharetime=1632838552740&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [电商最小存货 - SKU 和 算法实现](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247486355&idx=1&sn=04b2580680a4b6708e25163af039d7a4&source=41#wechat_redirect)
+- [随机数的故事](https://zhuanlan.zhihu.com/p/205359984)
 - []()
 
 ## ssr
@@ -363,6 +375,7 @@
 ## 视频
 - [浏览器页面录制及转视频方案](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247492975&idx=1&sn=1b7136d7eb463eebef3fc896e6d53f30&chksm=ea444437dd33cd2197476fbf212c8a878ed96343735012edb9664ebe3641c1c9f5f8ff9f383b&mpshare=1&scene=24&srcid=0627RKT6HIppiI2sG71BjaMK&sharer_sharetime=1624767307985&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [前端录制回放系统初体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576190&idx=2&sn=83fdb615e97e22eeaa71d1abb24df32a&chksm=802500bfb75289a92419c6bef123b3acb14410034bce3fedcb3be1442273ec2ee2a0f8054d77&mpshare=1&scene=24&srcid=0520yTXEDK4N23Pyiwas5qIL&sharer_sharetime=1621470567028&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [摄像头操作指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651554114&idx=1&sn=b08fa479737fd2289d83425eb6928298&chksm=80255683b752df955905bcb10ac3f5a5e59034ddbf2d3c1b7e73713ef428e1ac99246c41d66f&scene=0#rd)
 - []()
 
 ## 文件操作
@@ -382,6 +395,9 @@
 - [听说现在都考这些React面试题](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458078712&idx=3&sn=0c4f6a4378d25a9e190868292c3329a1&chksm=b187db8586f052930357a23eb99a306b4f70ec5165435af69c7953cdcd20835aec1177e101bd&mpshare=1&scene=24&srcid=0716qppjmCmjZGrbsE7fzeMl&sharer_sharetime=1626395000588&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [记一次高级前端开发工程师面经](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575702&idx=2&sn=58a7c6f6052683b361d1a6d4b27e9252&chksm=80250257b7528b41554fbc0008b851270dd0e19a39c25715885066dfafcc51d32a411b43dc8d&mpshare=1&scene=24&srcid=0512K7rJLjHtXCSrqFV0DNnG&sharer_sharetime=1620779552829&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [字节跳动最爱考的前端面试题：CSS 基础](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574217&idx=1&sn=afa3d2556bffb52a0c82b663c24c5d35&chksm=80251808b752911ebb8ac29c5b21a07120e4eaaff69588bccbd28abad183631dc9ebca8b70eb&mpshare=1&scene=24&srcid=0423JaJCtcBfHpuz17msSiib&sharer_sharetime=1619137105671&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [小前端进腾讯啦！](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247488242&idx=1&sn=44890d2414f5833eea33fa4dd60f298f&chksm=90321110a74598060596cce6adbf4f94f0eab067b53a3da9aeb7cb69821d1f52737b3b15ca04&mpshare=1&scene=24&srcid=1105KgXn2uMCLSDH0rRvZ7XG&sharer_sharetime=1604547828265&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247491887&idx=1&sn=f9ed5d0bb8568e1c3dbbae7a03b9768e&chksm=97812fa6a0f6a6b016d2b3638305ee0f4b57589827535700093a5b1155dcab73d7d0ed345ccc&mpshare=1&scene=24&srcid=0512OpF1rL2JFL1ncnYgDsQz&sharer_sharetime=1620779747851&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [微信订阅号&服务号团队招前端了(一年经验以上即可，附面试题参考)](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649829377&idx=1&sn=359a5473c2726d31862543489f8be311&chksm=f175fac2c60273d4405e89e530f23fc61597c2810acb990d8d91fe58ced331252b09ad354c27&mpshare=1&scene=24&srcid=0817lXF9Vp7RQ5FPzExyvrTP&sharer_sharetime=1597659990054&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
 ## blog/资源存储
@@ -394,10 +410,6 @@
 
 ### 笔记
 - [Notion，这应该是程序员最后一款笔记软件](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247508494&idx=1&sn=507371683e105b48827b43e5c01efb46&chksm=9031a1eca74628fab18a6d262c62d3d511d9592ff210950eadbc78fa1f297a4d64c1ad24b265&mpshare=1&scene=24&srcid=1227czenBV9k9952FwqMg2q7&sharer_sharetime=1640586757291&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
-
-## 面试
-- [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247491887&idx=1&sn=f9ed5d0bb8568e1c3dbbae7a03b9768e&chksm=97812fa6a0f6a6b016d2b3638305ee0f4b57589827535700093a5b1155dcab73d7d0ed345ccc&mpshare=1&scene=24&srcid=0512OpF1rL2JFL1ncnYgDsQz&sharer_sharetime=1620779747851&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
-- []()
 
 ## 设计
 - [10 个底部标签栏设计技巧](http://mp.weixin.qq.com/s?__biz=MzAwNjM0MzIzNA==&mid=2650342894&idx=2&sn=cf768a4456d6fb1a9a3b928145c394ca&chksm=83037ac3b474f3d52b709bccb8c08f117330dd8306edf1ac9b3b07712b2bf9fad1b4b4c23ae7&mpshare=1&scene=24&srcid=1213XnTMsRGVXKTt9w0rysqG&sharer_sharetime=1639376460969&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
@@ -421,6 +433,10 @@
 - [【第2335期】面向未来与浏览器规范的前端DDD架构设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247969&idx=1&sn=a6be9c9d8b4e4ea56cc446a70adce40d&chksm=bd490ce58a3e85f32ff5a01379e4d94afe8a88fc29e02e394ecdf295a7eb7052b01108f1daae&mpshare=1&scene=24&srcid=0713Cz1U88zfZN5l1fYhQ8sr&sharer_sharetime=1626135369153&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
+## 微服务
+- [为什么像王者荣耀这样的游戏Server不愿意使用微服务](https://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247492687&idx=1&sn=f7035c45cb6a5394e501075ef2cbc1b6&chksm=ea5f2929dd28a03f39749554292209ed74fd1aca867940540b941f1e9e1f775bdc6da5280212&mpshare=1&scene=24&srcid=07224elo3sbUd7dZNTXIwGZp&sharer_sharetime=1595416336657&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- []()
+
 ## lowcode
 - [低代码探索！开发效率提升 1000% 的 Vue 低代码表单组件实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500141&idx=1&sn=233e3af3c6630e8f3f60800d8b596abb&chksm=f992c7bccee54eaa654ea7bf24f97c87f0f61a6bbe04a7ea5057a6ffc85838d14d917cabcc29&mpshare=1&scene=24&srcid=1019dWn07PRMqLtddnZ0E6gr&sharer_sharetime=1634638917260&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
@@ -435,6 +451,7 @@
 - [Vue 项目如何做单元测试？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651581412&idx=2&sn=4310554d0a7339384c3599fad8915bf8&chksm=80253c25b752b533a23ea6d15cabb97ae6e4d2ee64f970eeeff079f43f6979d98a5d9035d0d8&mpshare=1&scene=24&srcid=0918L11pLkoSN5KaI3wncmfN&sharer_sharetime=1631969048723&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [如何写好 eggjs 单元测试](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247496500&idx=2&sn=e1b86a6d8cc07bf1ee006601412a4bc5&chksm=f992f5e5cee57cf30c59952b14b94470f07458f56d7ae3a2b38d3218e34ad4833895959b3d04&mpshare=1&scene=24&srcid=0708HTjhSL2VyIkiyAAwcaFH&sharer_sharetime=1625705800854&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [Vue 业务系统如何落地单元测试](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247496500&idx=1&sn=fac939ac7a14839d31dd1187e7523a8b&chksm=f992f5e5cee57cf3e055d5a287c767f02f0973f5251d4f118a9b13858bdafeb3e299638f3a41&mpshare=1&scene=24&srcid=0708yy58PY3HrdzSyzdzIl7N&sharer_sharetime=1625705788204&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [Web 前端单元测试到底要怎么写？看这一篇就够了](https://segmentfault.com/a/1190000015935519)
 - []()
 
 ## 富文本
@@ -452,6 +469,7 @@
 - [如何跨技术栈复用业务组件和共享代码？](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247494321&idx=2&sn=8d9b7743ca73cc97c98a6a2f7248fc08&chksm=ea444be9dd33c2ff78daae2e10a7ec368d017e0617bfc0439cbdca5381ddbbab25f4ddfc5db2&mpshare=1&scene=24&srcid=0813CE3qAy1Yiqi1TCX1Pv23&sharer_sharetime=1628814028347&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [【第2363期】全民K歌跨端体系建设](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651248655&idx=1&sn=3fe75cb20f5a93b0d1ba0c478efc0ae4&chksm=bd49018b8a3e889d7128cccd1a22db795cecc4a6c8f92c60f33e75446c57da4ed1cb903b0ef4&mpshare=1&scene=24&srcid=08104AGgk78Gl6CVGNaf3wod&sharer_sharetime=1628554742061&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [【第2246期】多端复用框架的原理与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245048&idx=1&sn=b1fcdd46dea3fddfba27db6e3ea6b35d&chksm=bd49107c8a3e996ab9a06f4dfdcb36c44c6c60c7702d5cdfa88cbfa45acd7cae61582f0efe29&mpshare=1&scene=24&srcid=0407vzZssOTuabty9SXR0YM9&sharer_sharetime=1617756422278&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [【第2169期】盒马中后台跨端方案探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243142&idx=1&sn=ffc28880bc8911ed907bed4d140d8ff0&chksm=bd491b028a3e9214fbaa4426b776eb33588dc7722d53737239597e6232004d43d2b9daffa7bc&mpshare=1&scene=24&srcid=0107NBRbF5gqlpREZ1SaLDtv&sharer_sharetime=1609983513467&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [服务端如何防止重复支付](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247493299&idx=2&sn=2efcc5993dbc3355ade0597b8342863a&chksm=f992e062cee5697488bda46749b1de9b63c9bb544466435d8281dc34b832980e3fe40250bf31&mpshare=1&scene=24&srcid=0517VtHwld8khcmKHQyruR4Z&sharer_sharetime=1621210217972&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [前端海报生成的不同方案和优劣](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247492265&idx=2&sn=9a8293fe7790ed33082c8db069e80a63&chksm=f992e478cee56d6e9b5b8de0c40eb7f9677e17feae0e4c241a8b44821752a3992b517ea3406e&mpshare=1&scene=24&srcid=0420akYKlqiHTiZQTMKeQHT4&sharer_sharetime=1618916865445&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
@@ -475,8 +493,19 @@
 - [元宇宙趋势下的前端现状](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649840399&idx=1&sn=6ff3369de48bfa8f2c6428f89a146f09&chksm=f17591ccc60218da5c0676b82c90f49f88c9c256319a9079715c044a5661600d17c067cb5c4f&mpshare=1&scene=24&srcid=1115cyGdLxDqV0gPUaJTxNHY&sharer_sharetime=1637023443000&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
+## 鸿蒙
+- [浅析鸿蒙 JavaScript GUI 技术栈](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649829953&idx=1&sn=4f2cc68b9c3a3573b2b70780c09bdeb1&chksm=f175f882c60271943a89f3c4a7ef2e2003cef16482d16402da5e3b91cbb36dff03d72ba392a6&mpshare=1&scene=24&srcid=09172TGKYULLefi1KjlKakn8&sharer_sharetime=1600344880820&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [逐行分析鸿蒙系统的 JavaScript 框架](https://mp.weixin.qq.com/s?__biz=Mzg3MTU4NTI3OA==&mid=2247488593&idx=1&sn=fcd6a4ecd793d1d747328d8646d4b51d&source=41#wechat_redirect)
+- []()
+
 ## go
 - [Go、React 和 esbuild 硬核实战](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247497426&idx=2&sn=494fac68d8d0a5a69530706ea2180bb7&chksm=ea44578add33de9c0dcb165d45022c06f05136acbd18e5ae4c02d499acc853678aba4f6652cd&mpshare=1&scene=24&srcid=1216TeoBH5QXOKNZF7aLFOP3&sharer_sharetime=1639623423142&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- []()
+
+## java
+- [java技术栈-Base Admin一套简单通用的后台管理系统](https://github.com/huanzi-qch/base-admin)
+- [Java类的生命周期](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458074008&idx=2&sn=c9854a76441e0445ab3eea7085e33266&chksm=b187ade586f024f33243aa949b45fb99cacd7443093f3ddbe1c5f54991899fa129c973666c62&mpshare=1&scene=24&srcid=&sharer_sharetime=1592960341450&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- []()
 
 ## 项目管理
 - [前端技术负责人知识图谱总结(可收藏为图片)](http://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458078644&idx=1&sn=608731d14f51f61a1cfaadd2c9ec03f3&chksm=b187dbc986f052dfda6aeea64d023a353ec5260b2b91ef0fb40308639ae22d323bd32ddf6338&mpshare=1&scene=24&srcid=07026hr0iQcg6T1NVYlaNX3C&sharer_sharetime=1625186995841&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
@@ -488,4 +517,5 @@
 - [是什么事让尤大如此生气？](http://mp.weixin.qq.com/s?__biz=MzIxNDc4MjEzNw==&mid=2247485612&idx=1&sn=c45e348008ab6309cd0b234dd214337d&chksm=97a3117aa0d4986c1962a674719e47fc736382e30fef0d41a83849dad7703557f61053568b11&mpshare=1&scene=24&srcid=10097kYlEvv667MZ0lVnroLU&sharer_sharetime=1633739398026&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [看完尤雨溪338条知乎回答后，我突然找到了前进的方向](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247505281&idx=1&sn=9f6fb2a3ff2f115da25ab16a14e20941&chksm=9031d663a7465f7588740efbe8a0a3a238c5eca96d3135057132b7fe15f2643713fff1c5e78a&mpshare=1&scene=24&srcid=0923a0MjKlsWUH3eYxvGyso8&sharer_sharetime=1632381021443&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [7年技术写作，分享6点心得体会](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247494710&idx=2&sn=64b1f609909de6071e1b52e3eefc85ac&chksm=ea444d6edd33c4786b77fa65fc6a4b2bb125b316c514575a383ff62ff85d08ec988ac644b063&mpshare=1&scene=24&srcid=082505e689oS8GJ0iAcYhCfC&sharer_sharetime=1629890348431&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [悼念前端大牛司徒正美](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650742033&idx=1&sn=6195b1f7d9e48edcf39fad5de822dcd1&chksm=bea76cc289d0e5d493e0594ab24cfac7c3ab9064d5df6ba4a020f41170a65c0bb5d27b2690d8&mpshare=1&scene=24&srcid=&sharer_sharetime=1586000643783&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()

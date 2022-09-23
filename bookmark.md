@@ -34,6 +34,7 @@
 - [git](#git)
 - [CI/CD](#cicd)
 - [构建](#构建)
+  - [构建](#构建-1)
   - [webpack](#webpack)
   - [babel](#babel)
   - [vite](#vite)
@@ -69,6 +70,7 @@
 - [VR](#vr)
 - [微前端](#微前端)
 - [微服务](#微服务)
+- [monorepo](#monorepo)
 - [lowcode](#lowcode)
 - [功能实现](#功能实现)
 - [单元测试](#单元测试)
@@ -116,6 +118,7 @@
 - []()
 ### 主题
 - [从网易云音乐的背景聊聊如何对图片主题色进行提取](https://mp.weixin.qq.com/s?__biz=Mzg3MTU4NTI3OA==&mid=2247489737&idx=1&sn=7dffe2b63826056fa5c16aedda1d6494&chksm=cefd1c58f98a954e6e3bffad6ec9114f7c9e8f9aa51d246312b0b6d52bbdbfa466fa4af87322&mpshare=1&scene=24&srcid=0718EkgFxRKDujd12EsDEK9g&sharer_sharetime=1626623161570&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [《前端技巧复盘》使用纯css实现网站换肤和焦点图切换动画](https://mp.weixin.qq.com/s?__biz=MzU2Mzk1NzkwOA==&mid=2247494326&idx=1&sn=a9c1b19fa0189e449b2bef8d30e6d655&chksm=fc50f34dcb277a5b836b1d15cb4b3db0ccd096692da0f22fafcb8b2e5541a3207c5639aefe2f&mpshare=1&scene=24&srcid=0913DEJJ4mLpjjLu67TzUIok&sharer_sharetime=1663077482841&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 
 ### atomic
@@ -128,6 +131,7 @@
 ### javascript
 - [2021 年 JavaScript 大事记](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247488307&idx=1&sn=118864d02edbb552da3b069b97e68d5a&chksm=c0253e65f752b7738fd44a72c2f005fc467aee8b6728da5ec5594e746d32bc738dc72f35e327&mpshare=1&scene=24&srcid=1229ir6iqhOuPF8EmDLyDYKx&sharer_sharetime=1640737404049&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [Rust 是 JavaScript 基础设施的未来](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247497010&idx=1&sn=1f02e16a9cb2dbd34734d77fa009a412&chksm=ea44546add33dd7cc978d13038f237af00c36ea48296007e44edcb1a168546282e2cb00802a9&mpshare=1&scene=24&srcid=1117cYFhf9KHZrITYinCjHiB&sharer_sharetime=1637124032557&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [一文颠覆大众对闭包的认知](https://mp.weixin.qq.com/s?__biz=MzU2Mzk1NzkwOA==&mid=2247494384&idx=2&sn=ac08d8ca28b25dc04ccc12fbf56bd5a0&chksm=fc50f30bcb277a1d0f44851bbfb3a1301c5e8f0327eda9aa4fd595a5378474010f11726e0f52&mpshare=1&scene=24&srcid=0920jpoRJSuqqNcjZVNibnzt&sharer_sharetime=1663637461437&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 
 ### 正则表达式
@@ -183,6 +187,9 @@
 - [从源码深入探究React 运行时优化方案的演进](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247493254&idx=1&sn=cc0935fed58318ff9b545e92c944cddb&chksm=9781280fa0f6a119162ad71ddc53fc25a607ea8dc56af70e145bb2e2016da923e164e464fa1a&mpshare=1&scene=24&srcid=0923vmgR69ktndwj2qPT4UXD&sharer_sharetime=1632381742686&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [React 组件性能优化技巧](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247495324&idx=2&sn=f41ac22443e7fd65d31051a490e4db38&chksm=ea444fc4dd33c6d29b591f96ae57579afc2a50c5ace86a56e2326c013506dc5e16a0184fe653&mpshare=1&scene=24&srcid=0916TgI6H8kQ2BZhMRtMzmRZ&sharer_sharetime=1631787403747&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [【第2373期】React 18 如何支持 Strict Effects](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651248868&idx=1&sn=9ff1c02e3c7a44af82ae42f3048f96d1&chksm=bd4901608a3e8876f6bcff8c60795b0522e32b0ba61cc5b18d0c55ffe7ed1c4c9252ddb78609&mpshare=1&scene=24&srcid=0820SOcde15l6AScXADlqugY&sharer_sharetime=1629419672479&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [React 组件的受控与非受控](https://zhuanlan.zhihu.com/p/536322574)
+- [关于 React Re-Render](https://mp.weixin.qq.com/s?__biz=MjM5NDgyODI4MQ==&mid=2247485606&idx=1&sn=e03278acfdd0c0ec607993a8af045759&chksm=a680923091f71b26dc91b2a4755f6e48308de532d59ff62a575de9ee151ecb1299967a543878&mpshare=1&scene=24&srcid=09156R2T3pDPQHO137O4n5Q4&sharer_sharetime=1663214425036&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
+- [超详细的React组件设计过程-仿抖音订单组件](https://juejin.cn/post/7112254955632721957)
 - []()
 
 ## react-hooks
@@ -196,6 +203,7 @@
 ## 状态管理
 - [第2426期】各流派React状态管理对比和原理实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651249747&idx=1&sn=2c6612e6208ad69dbf772a1f868da041&chksm=bd4905d78a3e8cc1ba4127cad653318b91f0029af1d9c06952f88b1fb4a91729f450ffd16ba2&mpshare=1&scene=24&srcid=10181x8lEtpFPZeDG5xitoxW&sharer_sharetime=1634551809242&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [组长让我把所有state都放Redux里](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247488051&idx=2&sn=15dd6d674bb61abb134d335ac290ae1d&chksm=ebf9e5e9dc8e6cff851aa5053a24d5930d413a01495eb323ed812f7095e588131cbd664396e2&mpshare=1&scene=24&srcid=0719PBOWJ70LHiCJHvmdask2&sharer_sharetime=1626740607070&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [理解了状态管理，就理解了前端开发的核心​](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608821&idx=1&sn=542671d9cfb46330e47dda50270e1293&chksm=80228134b7550822cb3d3cf33752885efa5e843d2dfd67ce33ec75c4ca416ceb9e4313cf85b6&mpshare=1&scene=24&srcid=0916mporLTC7jfDrKUSQDuM0&sharer_sharetime=1663293509740&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 
 ## typescript
@@ -250,12 +258,16 @@
 - []()
 
 ## 构建
+### 构建
+- [关于下一代前端代码构建技术的设想](https://juejin.cn/post/7141306977879064612)
+- []()
 ### webpack
 - [热更新傻傻分不清：Webapck HMR vs React-Hot-Loader](http://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458081664&idx=2&sn=f908a28c2d911afc3762ef3e2fde6ee3&chksm=b187cffd86f046ebcad2253c4aec6cb5ce17f3ed447e82da4350e61894468d73351ab4e0717b&mpshare=1&scene=24&srcid=1227bxrj1kfjZgVe0zcTGkGX&sharer_sharetime=1640586391673&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [如何优雅地打包非 JavaScript 静态资源](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500355&idx=1&sn=62b14df6389a4b6c4fbe5d753f7e2d2a&chksm=f992c492cee54d8493a2c26ee53169ec6a898d0a747ca43132f20f7055a381b0b2ef88093cc1&mpshare=1&scene=24&srcid=1101QNj50D9K1tCivIKrYy0T&sharer_sharetime=1635729613733&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [一行可以让项目启动快 70% 以上的代码(实用)](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247496661&idx=1&sn=f3f3feb377e888bf1418b4121b798c12&chksm=f992f504cee57c12f696412d23f482dbf31f0b0ce864b6ad8c262f724242d9a5ceb5ffa78118&mpshare=1&scene=24&srcid=0712FyGS6WVPRjqpUP6vvtb6&sharer_sharetime=1626135520952&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [Webpack SplitChunksPlugin：如何更好地进行分包](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458078681&idx=1&sn=5bae943006207401c191b01e5d682753&chksm=b187dba486f052b2d290f7040310768d95bec8b022d3f49010126f0de8480631665f3af63062&mpshare=1&scene=24&srcid=0711L2cuKUyFGyxeB0a06rjs&sharer_sharetime=1625935848033&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [构建效率大幅提升，webpack5 在企鹅辅导的升级实践](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649835994&idx=1&sn=68b4961226ead3408cf91739cf91a370&chksm=f1758319c6020a0f1960c3cf0304480e915fdbc54187f4664f193df0d356597daf1a49e510ec&mpshare=1&scene=24&srcid=0622QlcBnfnDCZVWsdJamPEu&sharer_sharetime=1624365313785&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [彻底搞懂 Webpack 的 sourcemap 配置原理](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247495104&idx=1&sn=b27d5ce04eee3cb391afa6c351a1cbb4&chksm=97812349a0f6aa5f91e16cee8cbd35c0c4efc1f683405f157eda7bdc4884e535fc45c7d82551&mpshare=1&scene=24&srcid=0914xbMlZdNv4xbZks5AsnW1&sharer_sharetime=1663205863615&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 ### babel
 - [「前端基建」带你在Babel的世界中畅游](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500685&idx=2&sn=f8e04d3e673526811acacc44e061589a&chksm=f992c55ccee54c4aaa2e3fed264da7d9c41ad19e442f26c4341ddfe88feb64bd76305f5d783b&mpshare=1&scene=24&srcid=1115dR0eUduatyFEftOtES2E&sharer_sharetime=1636935712025&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
@@ -263,6 +275,7 @@
 - [一文彻底读懂Babel](http://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247495876&idx=3&sn=57e1c17bfd2d97683f2bbd391f2171ef&chksm=ea44519cdd33d88af7789821b5d2c2d23fee53910006ba7ffef473310d3efbf3cbb0a2a584d8&mpshare=1&scene=24&srcid=1009GdwPrbirFV5q5l0IMCRC&sharer_sharetime=1633739201886&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [通过一个“时髦”的例子学 Babel 插件](http://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247495876&idx=2&sn=34eb1e4c10ab97faa4d75f749d766fb7&chksm=ea44519cdd33d88a1848ba4362b72d9f2eaff6a751c0fdfb8d0d04b7817341b62c5cf29127a4&mpshare=1&scene=24&srcid=10091YnrtETTQTvP3vIClKzu&sharer_sharetime=1633739153284&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [再看 Babel](http://mp.weixin.qq.com/s?__biz=MjM5NDgyODI4MQ==&mid=2247484141&idx=1&sn=1525cadde2a84f309407e2131ed54be2&chksm=a680987b91f7116d34bf68a671620151d42297affd33e46272fb64b9dcf77dcac51dcca0c1ae&mpshare=1&scene=24&srcid=0901awurnPUbD9dMcVYtHYwB&sharer_sharetime=1630453798777&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [Babel 可以这样学！](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247500779&idx=1&sn=75c878dd605299138e6a65b1b65fa0d0&chksm=ea4462b3dd33eba526b960c86fdad64c33e0c24f576201e2761328a55c86558dc08dd5bf5d10&mpshare=1&scene=24&srcid=0920e1WZryAscX0Kl07Mf1lB&sharer_sharetime=1663638148614&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 
 ### vite
@@ -270,6 +283,7 @@
 - [Vue 2 项目如何快速接入 Vite 作为开发工具](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649836373&idx=1&sn=301016cdfe571ee7fb727f232935368c&chksm=f1758196c6020880d912518036f1de430f4c31b2372afff2f64269e22e53b8394726dc2a625b&mpshare=1&scene=24&srcid=0708ddMdKxtJ8RByPiM1I8CK&sharer_sharetime=1625748066064&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [【vite】你不知道的小妙招，确定不看一下吗？](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247487949&idx=2&sn=a5eb8987bb76b3059881b8e6a88be147&chksm=ebf9e617dc8e6f018eb16227deead07cdab84888b346b4c535620c514348fa2a875894d2f624&mpshare=1&scene=24&srcid=07023cG4ZEDOCJjanu5Sv7qq&sharer_sharetime=1625187251120&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [Vite 的好与坏](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650754665&idx=1&sn=21aa5ea7dec37702e86019fd64b731f2&chksm=88664de5bf11c4f3c3d5445ed1a46120d685907256d097133f8f78405536b4ff83ef05c6838b&mpshare=1&scene=24&srcid=0713Ah5OeHoEXvbadoKnMFS2&sharer_sharetime=1626220582379&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [详解从零搭建企业级 vue3 + vite2+ ts4 框架全过程](https://mp.weixin.qq.com/s?__biz=MzU2Mzk1NzkwOA==&mid=2247494267&idx=1&sn=5e989df83fd6264c613a60e7a4e7d2e8&chksm=fc50f380cb277a96c4143755cbbcddd21cc8b88e874e37d89f30d858959be71d0706122e6102&mpshare=1&scene=24&srcid=0913vkZdAbWCvzatFrt4Do8E&sharer_sharetime=1663077180384&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 
 ### esbuild
@@ -300,6 +314,8 @@
 - [这还是我最熟悉的package.json吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247498610&idx=2&sn=7e144f9c78b1263c92560996904c4247&chksm=f992fda3cee574b5925da6b0ccb0b57f2dca8617f165cf03a9ec9b327db0e242e3da10a14ece&mpshare=1&scene=24&srcid=0902hLUIdFE8v5CFrHurBxrd&sharer_sharetime=1630578230738&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [一种未曾设想的前端项目依赖管理道路](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649836779&idx=1&sn=d5c7fecf72f71e8828cca9dea8b0029f&chksm=f1758628c6020f3ebafc6d9fe1eaf5d560440532e5152d5f3d345236f220786e9bf1e43c3b38&mpshare=1&scene=24&srcid=0809hA4e634AJbG54uIhWUaL&sharer_sharetime=1628551932835&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [很多人上来就删除的package-lock.json，还有这么多你不知道的！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247492105&idx=2&sn=51cc165ddcbef7d73ac07e51395f5d1b&chksm=f992e4d8cee56dce4cbe1524713c3fd26a536bd3f41f60d2a8ded633ee199f0bc7c81c641f25&mpshare=1&scene=24&srcid=0417E9XsqDCB69qXTW7t8Cxs&sharer_sharetime=1618670161677&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [NPM这6个有趣实用的知识点，你知道几个？](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247495098&idx=1&sn=f106867dd42a2465f09aff2704295427&chksm=97812333a0f6aa258123ab831d6b257cd46aa40e8a121989c8986d08b9a179d6a568d5c3bbf8&mpshare=1&scene=24&srcid=0913Uih8EjZEnvw27kgNtNNQ&sharer_sharetime=1663077155211&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
+- [规范升级 NPM 包](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247487663&idx=1&sn=cf128a91ba3fd1335accf86afcf0014c&chksm=cf3c24def84badc8be6527c6bfaa8694e758183247b2917d3fc9995d810910bfd5454a7ad24a&mpshare=1&scene=24&srcid=091354wjUoNXkUsO3c6zfSXL&sharer_sharetime=1663076955903&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 ### orm
 - [现代 Nodejs ORM 库 Prisma 的使用详解](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500154&idx=2&sn=4b183c6dab72c9176f4750f7c25e1a44&chksm=f992c7abcee54ebd9ad8918154cd720b31499ccf737be5baa75f5e7b8e81a10103489673f149&mpshare=1&scene=24&srcid=1020RUfXUE7BOOcPUVr03B4r&sharer_sharetime=1634778372229&sharer_shareid=c5c1787a60eae170a730646d809a4be3#rd)
@@ -343,6 +359,7 @@
 - [Web图像组件设计的最佳实践](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649841367&idx=2&sn=c9e0ffe5e1ae595195a0bbd56d42cc3d&chksm=f1759414c6021d0240dceb8587bb11bd703a1007bbbfc8a2bfeb0ad2ec795ce4ff158abfa750&mpshare=1&scene=24&srcid=1217LFVpxrYlL3YLzHYyRJc6&sharer_sharetime=1639736984098&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [图片降级方案原来这么简单？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500462&idx=1&sn=9b2db31f4ddb3472398fa051de466a04&chksm=f992c47fcee54d69e7635469ebd93686444a1b6c7466f225349cdb9ec59457168113fbdc9b3d&mpshare=1&scene=24&srcid=1104uqjVh2w6nsDJhUJwgyZ7&sharer_sharetime=1635992991643&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [如何设计一个好用的 React Image 组件？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500310&idx=3&sn=344bebacda67e16755f86ef4deeee3ee&chksm=f992c4c7cee54dd1f01a3506dec5732bac45f82ae33ca3c8185d82aa88710f3f73a1ba65ce0f&mpshare=1&scene=24&srcid=1031IYHQDMihvJCEcep8zwyb&sharer_sharetime=1635658744041&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [关于图片加载，你需要学习一下](https://juejin.cn/post/7134706181863374878)
 - [当通用优化已完成，我们应该做什么？](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247496656&idx=2&sn=26cdc16c3f7a545104b26b79c1353d7d&chksm=ea445288dd33db9e45b3940ea7b4c8325e53b8d7f9f9123432521d49bdbb8ee1ebfc5c3cbd80&mpshare=1&scene=24&srcid=1103h7eoJk4GCo7ViWD2TWOg&sharer_sharetime=1635906825549&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [写在 2021 的前端性能优化指南](http://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458080979&idx=1&sn=41f31b6cd0314c23a57ca0a10d47d317&chksm=b187c0ae86f049b876cccbc511e1884d8224099a1fc48e7ac5782eb18a538ec8984b9e6069ab&mpshare=1&scene=24&srcid=1018LkBDIS8kpivrfS2kIAuo&sharer_sharetime=1634551797077&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [【第2402期】如何把Table 组件性能提升了十倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651249398&idx=1&sn=919815405cb69a0cbf9871c6d637852c&chksm=bd4903728a3e8a64dd7df573f6986e5d7bf6f38d4f8fae4b97d9f951bcb9a53fd4d9f157d139&mpshare=1&scene=24&srcid=0918LZPOVp9K3DiS071uM8Xu&sharer_sharetime=1631968911774&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
@@ -402,6 +419,7 @@
 - [小前端进腾讯啦！](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247488242&idx=1&sn=44890d2414f5833eea33fa4dd60f298f&chksm=90321110a74598060596cce6adbf4f94f0eab067b53a3da9aeb7cb69821d1f52737b3b15ca04&mpshare=1&scene=24&srcid=1105KgXn2uMCLSDH0rRvZ7XG&sharer_sharetime=1604547828265&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247491887&idx=1&sn=f9ed5d0bb8568e1c3dbbae7a03b9768e&chksm=97812fa6a0f6a6b016d2b3638305ee0f4b57589827535700093a5b1155dcab73d7d0ed345ccc&mpshare=1&scene=24&srcid=0512OpF1rL2JFL1ncnYgDsQz&sharer_sharetime=1620779747851&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [微信订阅号&服务号团队招前端了(一年经验以上即可，附面试题参考)](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649829377&idx=1&sn=359a5473c2726d31862543489f8be311&chksm=f175fac2c60273d4405e89e530f23fc61597c2810acb990d8d91fe58ced331252b09ad354c27&mpshare=1&scene=24&srcid=0817lXF9Vp7RQ5FPzExyvrTP&sharer_sharetime=1597659990054&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [字节一面：服务端挂了，客户端的 TCP 连接还在吗？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653245624&idx=2&sn=e12e7f864c77aa3688316e93aa68db5e&chksm=8c982262bbefab7484f32475bb67347f0e6b2fdfe632aea788faf3238abb5a782c7bcb779d74&mpshare=1&scene=24&srcid=0913zjKF3R5JkdLhctSbU60V&sharer_sharetime=1663042625543&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - []()
 
 ## blog/资源存储
@@ -435,14 +453,20 @@
 ## 微前端
 - [探索微前端的场景极限](http://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247493690&idx=1&sn=04dd20755f0dcce8a8af5df7b18d664d&chksm=978126b3a0f6afa5bd09e7addabbc271ae496d4c128c370473f14960906a6692deea9e7d9f5c&mpshare=1&scene=24&srcid=11174rxuGELXAzVR43p02wQc&sharer_sharetime=1637123988575&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [【第2335期】面向未来与浏览器规范的前端DDD架构设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247969&idx=1&sn=a6be9c9d8b4e4ea56cc446a70adce40d&chksm=bd490ce58a3e85f32ff5a01379e4d94afe8a88fc29e02e394ecdf295a7eb7052b01108f1daae&mpshare=1&scene=24&srcid=0713Cz1U88zfZN5l1fYhQ8sr&sharer_sharetime=1626135369153&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [【第2727期】基于 iframe 的微前端框架 —— 擎天](https://mp.weixin.qq.com/s/B3I4z-N6OQ-ErkhUWw62_g)
 - []()
 
 ## 微服务
 - [为什么像王者荣耀这样的游戏Server不愿意使用微服务](https://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247492687&idx=1&sn=f7035c45cb6a5394e501075ef2cbc1b6&chksm=ea5f2929dd28a03f39749554292209ed74fd1aca867940540b941f1e9e1f775bdc6da5280212&mpshare=1&scene=24&srcid=07224elo3sbUd7dZNTXIwGZp&sharer_sharetime=1595416336657&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - []()
 
+## monorepo
+- [这样用 lerna 也太爽了吧！](https://juejin.cn/post/7134646424083365924)
+- []()
+
 ## lowcode
 - [低代码探索！开发效率提升 1000% 的 Vue 低代码表单组件实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500141&idx=1&sn=233e3af3c6630e8f3f60800d8b596abb&chksm=f992c7bccee54eaa654ea7bf24f97c87f0f61a6bbe04a7ea5057a6ffc85838d14d917cabcc29&mpshare=1&scene=24&srcid=1019dWn07PRMqLtddnZ0E6gr&sharer_sharetime=1634638917260&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
+- [vue3开发拒绝cv, 快使用crud](https://juejin.cn/post/7127169214879629320)
 - []()
 
 ## 功能实现

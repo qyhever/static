@@ -323,6 +323,7 @@
 
 ## 架构
 - [死磕前端架构之整洁架构在前端的应用实践【稀缺资源】](https://mp.weixin.qq.com/s?__biz=MzI0MTUxOTE5NQ==&mid=2247491487&idx=1&sn=4d450986da6eadce8fb211eaba6e20c6&chksm=e90b00abde7c89bdb2e37577894e972f3c9dffee0e186009eb7527307a57b5e5d02826d8e47e&mpshare=1&scene=24&srcid=0929bGGr8HubpAYGK5t5pwA6&sharer_sharetime=1664507895275&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
+- [一文了解高性能架构和系统设计经验](https://www.51cto.com/article/745546.html)
 - []()
 
 ## node
@@ -452,6 +453,7 @@
 - [字节一面：服务端挂了，客户端的 TCP 连接还在吗？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653245624&idx=2&sn=e12e7f864c77aa3688316e93aa68db5e&chksm=8c982262bbefab7484f32475bb67347f0e6b2fdfe632aea788faf3238abb5a782c7bcb779d74&mpshare=1&scene=24&srcid=0913zjKF3R5JkdLhctSbU60V&sharer_sharetime=1663042625543&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - [从两个前端的小公司，直接跳进当时几乎国内最强的前端团队！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510554&idx=1&sn=169fe32a045ade176deccd31ceb7d251&chksm=f992accbcee525dd6c0eb55605573b2ce8122e8f8c0b445007aa969ac21fc50a32ffabcc9089&mpshare=1&scene=24&srcid=0909yv6fzPhbXuBJNoUWwrLv&sharer_sharetime=1662681616936&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - [10w字！前端知识体系+大厂面试笔记（工程化篇）](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649849625&idx=1&sn=4acd9c2a585b321579301c86562d82d9&chksm=f175b5dac6023ccc8dfa24f217a623a7d8c4f31907c4877942340e0133b1ee61d50340a26c35&mpshare=1&scene=24&srcid=10099dx90KgihvTnxy6U8BWj&sharer_sharetime=1665359163914&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
+- [一文带你梳理React面试题（2023年版本）](https://juejin.cn/post/7182382408807743548)
 - []()
 
 ## blog/资源存储
@@ -507,6 +509,7 @@
 - [Web 网页如何实现防调试？](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247494905&idx=2&sn=4a0aac0e6b535327e6675a3f4278caa3&chksm=ea444da1dd33c4b70bd7ebbea47c6990a641065830f42d0d746eb39b31c3e9f6e9a779826ef4&mpshare=1&scene=24&srcid=0901KwEvf9ka41Id79srTGlH&sharer_sharetime=1630500326339&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [纯前端实现「羊了个羊」小游戏🐏](https://juejin.cn/post/7143897892531486727)
 - [Vue3 如何实现一个全局搜索框](https://juejin.cn/post/7170345858938961957)
+- [跳转别人的页面，怎么加个返回呢](https://juejin.cn/post/7196969196445876261)
 - []()
 
 ## 单元测试
@@ -538,6 +541,7 @@
 - [前端海报生成的不同方案和优劣](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247492265&idx=2&sn=9a8293fe7790ed33082c8db069e80a63&chksm=f992e478cee56d6e9b5b8de0c40eb7f9677e17feae0e4c241a8b44821752a3992b517ea3406e&mpshare=1&scene=24&srcid=0420akYKlqiHTiZQTMKeQHT4&sharer_sharetime=1618916865445&sharer_shareid=6f1bc4bf47f59098c88b94b23f2a5703#rd)
 - [Markdown 写 PPT 是如何实现的？](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247500602&idx=1&sn=4b226bf0d0113aa49ebd4f10803d4a55&chksm=ea446262dd33eb748d47e45a4729810b943e16d57689930b847863e1155ae7670bc08dd5f41f&mpshare=1&scene=24&srcid=0830hZxK9pcwokWe57Pet0WJ&sharer_sharetime=1661905692351&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
 - [浅谈文档的实时协同编辑](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609361&idx=1&sn=556f4764480dff6b285a278bab2a25c6&chksm=80228ed0b75507c6c3ab3646a27d2ce247b978acd19d2b271e4c12af1562f9ef7a680e679615&mpshare=1&scene=24&srcid=1005OcYseonCx1PXRt2WA4Ec&sharer_sharetime=1664932872540&sharer_shareid=669f6af8e4ea86c8eef75dfc5f5ae145#rd)
+- [开发弹窗，你使用状态驱动还是命令式？](https://juejin.cn/post/7182393187917365305)
 - []()
 
 ## 国际化

@@ -4,6 +4,113 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>fixed-tabbar</title>
+	<script>
+		var methodMap = [['requestFullscreen', 'exitFullscreen', 'fullscreenElement', 'fullscreenEnabled', 'fullscreenchange', 'fullscreenerror'],
+		// New WebKit
+		['webkitRequestFullscreen', 'webkitExitFullscreen', 'webkitFullscreenElement', 'webkitFullscreenEnabled', 'webkitfullscreenchange', 'webkitfullscreenerror'],
+		// Old WebKit
+		['webkitRequestFullScreen', 'webkitCancelFullScreen', 'webkitCurrentFullScreenElement', 'webkitCancelFullScreen', 'webkitfullscreenchange', 'webkitfullscreenerror'], ['mozRequestFullScreen', 'mozCancelFullScreen', 'mozFullScreenElement', 'mozFullScreenEnabled', 'mozfullscreenchange', 'mozfullscreenerror'], ['msRequestFullscreen', 'msExitFullscreen', 'msFullscreenElement', 'msFullscreenEnabled', 'MSFullscreenChange', 'MSFullscreenError']];
+		var nativeAPI = (() => {
+			if (typeof document === 'undefined') {
+				return false;
+			}
+			var unprefixedMethods = methodMap[0];
+			var returnValue = {};
+			for (const methodList of methodMap) {
+				const exitFullscreenMethod = methodList === null || methodList === void 0 ? void 0 : methodList[1];
+				if (exitFullscreenMethod in document) {
+					for (const [index, method] of methodList.entries()) {
+						returnValue[unprefixedMethods[index]] = method;
+					}
+					return returnValue;
+				}
+			}
+			return false;
+		})();
+		var eventNameMap = {
+			change: nativeAPI.fullscreenchange,
+			error: nativeAPI.fullscreenerror
+		};
+
+		var screenfull = {
+			// eslint-disable-next-line default-param-last
+			request(element = document.documentElement, options) {
+				return new Promise((resolve, reject) => {
+					const onFullScreenEntered = () => {
+						screenfull.off('change', onFullScreenEntered);
+						resolve();
+					};
+					screenfull.on('change', onFullScreenEntered);
+					const returnPromise = element[nativeAPI.requestFullscreen](options);
+					if (returnPromise instanceof Promise) {
+						returnPromise.then(onFullScreenEntered).catch(reject);
+					}
+				});
+			},
+			exit() {
+				return new Promise((resolve, reject) => {
+					if (!screenfull.isFullscreen) {
+						resolve();
+						return;
+					}
+					const onFullScreenExit = () => {
+						screenfull.off('change', onFullScreenExit);
+						resolve();
+					};
+					screenfull.on('change', onFullScreenExit);
+					const returnPromise = document[nativeAPI.exitFullscreen]();
+					if (returnPromise instanceof Promise) {
+						returnPromise.then(onFullScreenExit).catch(reject);
+					}
+				});
+			},
+			toggle(element, options) {
+				return screenfull.isFullscreen ? screenfull.exit() : screenfull.request(element, options);
+			},
+			onchange(callback) {
+				screenfull.on('change', callback);
+			},
+			onerror(callback) {
+				screenfull.on('error', callback);
+			},
+			on(event, callback) {
+				const eventName = eventNameMap[event];
+				if (eventName) {
+					document.addEventListener(eventName, callback, false);
+				}
+			},
+			off(event, callback) {
+				const eventName = eventNameMap[event];
+				if (eventName) {
+					document.removeEventListener(eventName, callback, false);
+				}
+			},
+			raw: nativeAPI
+		};
+		Object.defineProperties(screenfull, {
+			isFullscreen: {
+				get: () => Boolean(document[nativeAPI.fullscreenElement])
+			},
+			element: {
+				enumerable: true,
+				get: () => {
+					var _document$nativeAPI$f;
+					return (_document$nativeAPI$f = document[nativeAPI.fullscreenElement]) !== null && _document$nativeAPI$f !== void 0 ? _document$nativeAPI$f : undefined;
+				}
+			},
+			isEnabled: {
+				enumerable: true,
+				// Coerce to boolean in case of old WebKit.
+				get: () => Boolean(document[nativeAPI.fullscreenEnabled])
+			}
+		});
+		if (!nativeAPI) {
+			screenfull = {
+				isEnabled: false
+			};
+		}
+
+	</script>
 	<style>
 		* {
 			margin: 0;
@@ -12,20 +119,27 @@
 		.navbar {
 			position: fixed;
 			top: 0;
+			display: flex;
+			justify-content: center;
 			width: 100%;
 			height: 44px;
 			background-color: pink;
 			padding-top: constant(safe-area-inset-top);
   		padding-top: env(safe-area-inset-top);
+			line-height: 1;
 		}
 		.tabbar {
 			position: fixed;
 			bottom: 0;
+			display: flex;
+			justify-content: center;
+			align-items: flex-end;
 			width: 100%;
 			height: 48px;
 			padding-bottom: constant(safe-area-inset-bottom);
   		padding-bottom: env(safe-area-inset-bottom);
 			background-color: skyblue;
+			line-height: 1;
 		}
 		.main {
 			/* padding-top: 44px;
@@ -48,7 +162,7 @@
 </head>
 <body>
 	<div id="app">
-		<div class="navbar"></div>
+		<div class="navbar">navbar</div>
 		<div class="navbar-placeholder"></div>
 		<div class="main">
 			<button @click="onToggle">Toggle fullscreen</button>
@@ -61,7 +175,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="tabbar"></div>
+		<div class="tabbar">tabbar</div>
 		<div class="tabbar-placeholder"></div>
 	</div>
 </body>
@@ -78,14 +192,10 @@
     mounted () {},
 		methods: {
 			onToggle () {
-				if (!document.fullscreenEnabled) {
-					return alert('support fullscreen')
+				if (!screenfull.isEnabled) {
+					return alert('you browser can not work')
 				}
-				if (document.fullscreenElement) {
-					document.exitFullscreen()
-				} else {
-					document.documentElement.requestFullscreen()
-				}
+				screenfull.toggle()
 			}
 		}
 	})

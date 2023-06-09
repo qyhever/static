@@ -25,6 +25,7 @@
 - [react](#react)
 - [react-hooks](#react-hooks)
 - [frame](#frame)
+- [react vs vue](#react-vs-vue)
 - [状态管理](#状态管理)
 - [typescript](#typescript)
 - [webapi](#webapi)
@@ -62,6 +63,7 @@
 - [视频](#视频)
 - [文件操作](#文件操作)
 - [面试](#面试)
+- [IDE](#ide)
 - [blog/资源存储](#blog资源存储)
   - [blog](#blog)
   - [资源存储](#资源存储)
@@ -87,6 +89,7 @@
 - [java](#java)
 - [项目管理](#项目管理)
 - [产品](#产品)
+- [AI](#ai)
 - [观点/评论](#观点评论)
 - [其它](#其它)
 - [sf](#sf)
@@ -128,6 +131,9 @@
 
 ### atomic
 - [TailwindCSS v3.0 正式发布](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247488852&idx=1&sn=58cefc5e2ec74bf1e0bc4c21c3ead9c7)
+- [TailwindCSS的使用，看这一篇就够了！](https://zhengxiaoping.xyz/fullstack/TailwindCSS%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.html)
+- [不懂设计，也能用 Tailwind 制作出好看的网页](https://juejin.cn/post/7240846822465339449)
+- []()
 
 ### 动画
 - [Vue组件设计 | 如何定制js、css动画曲线](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247498776&idx=3&sn=5b05906574527e1466eda779bc7b9468)
@@ -179,6 +185,7 @@
 - [Webpack5 搭建 Vue3 + TS 项目](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247492698&idx=1&sn=c02837452a9d883fb38d033ef43eda43)
 - [Vue3的Vue.extend()](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247496197&idx=2&sn=6d7cfe59f22e79366a350615cfcdff81)
 - [Vue3 + Vite2 + TypeScript 开发复盘总结](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247492014&idx=1&sn=c73a32ce8d91849da1d92745dc0e5b14)
+- [深入解析 Pinia 源码：一份全面的指南](https://juejin.cn/post/7225038708965818426)
 - []()
 ### vue-router
 - 1
@@ -200,6 +207,7 @@
 - [关于 React Re-Render](https://mp.weixin.qq.com/s?__biz=MjM5NDgyODI4MQ==&mid=2247485606&idx=1&sn=e03278acfdd0c0ec607993a8af045759)
 - [超详细的React组件设计过程-仿抖音订单组件](https://juejin.cn/post/7112254955632721957)
 - [React拖拽排序组件库对比研究](https://juejin.cn/post/7062625911312646175)
+- [reactrouter 有没有办法实现动态路由？](https://segmentfault.com/q/1010000043800049)
 - []()
 
 ## react-hooks
@@ -212,6 +220,12 @@
 
 ## frame
 - [【第2163期】增量 DOM 与虚拟 DOM 的对比使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242811&idx=1&sn=b3de168eb6fbf3c2d5c7840b6ae074f6)
+
+## react vs vue
+- [Vue 选手转 React 常犯的 10 个错误，你犯过几个？](https://juejin.cn/post/7220043684293083195)
+- [React18 与 Vue3 全方面对比](https://juejin.cn/post/7210918245993611301)
+- [聊聊 Vue 和 React 的区别，看看你在哪个段位](https://juejin.cn/post/7238199999733088313)
+- []()
 
 ## 状态管理
 - [第2426期】各流派React状态管理对比和原理实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651249747&idx=1&sn=2c6612e6208ad69dbf772a1f868da041)
@@ -255,16 +269,22 @@
 - [如何使用mediaDevices API切换摄像头的示例](https://github.com/philnash/mediadevices-camera-selection)
 - [react瀑布流组件](https://github.com/jiaozitang/react-masonry-component2)
 - [Node.js 资源大全中文版](https://github.com/jobbole/awesome-nodejs-cn)
+- [UI 框架，我更喜欢用这些](https://juejin.cn/post/7236682185963585593)
+- [Vue3多端项目实战——开发一个多端音乐 APP我踩了很多坑！](https://juejin.cn/post/7210784861250027579)
+- [Vue3 组件库 Varlet 开源两周年随笔，个人开源爱好者的两年开源历程。](https://juejin.cn/post/7222663980391989304)
 - []()
 
 ## web
 - [现代 Web 开发困局](http://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247493548&idx=1&sn=317221ef8a5c99c893c84e2c2090abad)
 - [迈入现代 Web 开发（GMTC 2021 演讲全文）](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650754351&idx=1&sn=5f6cfd1b2c3bdc287fdba8239e742cd6)
 - [新一波JavaScript Web框架](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651142366&idx=1&sn=27af7847ef3200d5ffba96f1c504d6cb)
+- [Web 的下一个转型：单页应用？是时候换个思路了](https://www.infoq.cn/article/J9f5EyxwRCmKrORr5s2t)
 - []()
 
 ## git
 - [Git 如何优雅地回退代码呢？](https://mp.weixin.qq.com/s?__biz=MzU2OTY5MDc1Ng==&mid=2247488663&idx=1&sn=e3140249fe484a527fdf026729035c3d)
+- [从迭代分支拆出我自己的分支后，迭代分支有更新，我如何拉取？](https://segmentfault.com/q/1010000043511668)
+- [五分钟定制自己的 Git commit tool](https://juejin.cn/post/7224759346747031609)
 - []()
 
 ## CI/CD
@@ -302,6 +322,8 @@
 - [【vite】你不知道的小妙招，确定不看一下吗？](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247487949&idx=2&sn=a5eb8987bb76b3059881b8e6a88be147)
 - [Vite 的好与坏](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650754665&idx=1&sn=21aa5ea7dec37702e86019fd64b731f2)
 - [详解从零搭建企业级 vue3 + vite2+ ts4 框架全过程](https://mp.weixin.qq.com/s?__biz=MzU2Mzk1NzkwOA==&mid=2247494267&idx=1&sn=5e989df83fd6264c613a60e7a4e7d2e8)
+- [vue2.6+elementUI+compositionApi，有没有办法让elementUI支持typescript?](https://segmentfault.com/q/1010000043814062)
+- [记录一次vue3+vite项目的优化](https://juejin.cn/post/7215177412908089404)
 - []()
 
 ### esbuild
@@ -317,6 +339,7 @@
 - [团队合作中，如何进行 code review 流程探索](http://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458079943&idx=1&sn=5698b62ac695ec5885930a4e7d203edf)
 - [从项目规范（eslint + prettier）到自动化配置](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247496611&idx=2&sn=7ba1536cf7d61c4757e77c71ff0ae42f)
 - [vite插件实现骨架屏自动化](https://juejin.cn/post/7152406737100734495)
+- [一个 ESLint 插件，检查文件名是否符合指定规则](https://github.com/DukeLuo/eslint-plugin-check-file)
 - []()
 
 ## 组件库
@@ -336,6 +359,8 @@
 - [Node 第二弹：Node 服务端应用路由解析](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458078693&idx=1&sn=abb7e83172056369e99a3f9e1513f346)
 - [Node.js 如何创建软连接，与硬链接区别是什么？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247492071&idx=1&sn=d0321e73bd66448386b3a17dbfe65758)
 - [如何优化你的 Node.js API](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510495&idx=1&sn=c5746c804e9e1f5437b7fb74950f8297)
+- [安利下 fnm(Fast Node Manager)](https://www.v2ex.com/t/933615)
+- [快速入门 Redis 并在 Node.js 里操作它](https://juejin.cn/post/7224509497028558908)
 - []()
 ### npm
 - [使用“黑魔法”优雅的修改第三方依赖包](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247497388&idx=1&sn=30198f77e5e30354188db4c9490d4b87)
@@ -430,6 +455,7 @@
 - [浏览器页面录制及转视频方案](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247492975&idx=1&sn=1b7136d7eb463eebef3fc896e6d53f30)
 - [前端录制回放系统初体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576190&idx=2&sn=83fdb615e97e22eeaa71d1abb24df32a)
 - [摄像头操作指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651554114&idx=1&sn=b08fa479737fd2289d83425eb6928298)
+- [自动播放问题](https://github.com/bytedance/xgplayer/issues/145)
 - []()
 
 ## 文件操作
@@ -459,6 +485,10 @@
 - [10w字！前端知识体系+大厂面试笔记（工程化篇）](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649849625&idx=1&sn=4acd9c2a585b321579301c86562d82d9)
 - [一文带你梳理React面试题（2023年版本）](https://juejin.cn/post/7182382408807743548)
 - [大厂面试官：你做过什么有亮点的项目吗？](https://mp.weixin.qq.com/s?__biz=MzU3NTg1ODAwMg==&mid=2247484864&idx=1&sn=ad9e958aa56c124f95467d3f840a13c8)
+- []()
+
+## IDE
+- [2023年最新最全 VSCode 插件推荐！](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247496443&idx=1&sn=1f7585c552acca8c1167cceaa227ca14)
 - []()
 
 ## blog/资源存储
@@ -515,6 +545,8 @@
 - [纯前端实现「羊了个羊」小游戏🐏](https://juejin.cn/post/7143897892531486727)
 - [Vue3 如何实现一个全局搜索框](https://juejin.cn/post/7170345858938961957)
 - [跳转别人的页面，怎么加个返回呢](https://juejin.cn/post/7196969196445876261)
+- [页面视差滚动效果](https://segmentfault.com/q/1010000043801288)
+- [怎么让元素根据X,Y坐标按照圆形排列啊？](https://segmentfault.com/q/1010000043792203)
 - []()
 
 ## 单元测试
@@ -560,6 +592,7 @@
 
 ## 地图
 - [记一次前端"揭开绘制地图的神秘面纱"分享会](http://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247505347&idx=1&sn=7f2bbdc142b21723464b17cd39a508df)
+- [在高德地图实现自动巡航](https://juejin.cn/post/7238439667137593403)
 - []()
 
 ## 可视化
@@ -595,12 +628,17 @@
 - [上瘾模型](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247488409&idx=1&sn=909be78e66a63ade720a0bab3bdea919)
 - []()
 
+## AI
+- [使用chatGPT翻译React Router v6.9简直太香了](https://juejin.cn/post/7214342319347728441)
+- []()
+
 ## 观点/评论
 - [前端不容你亵渎](http://mp.weixin.qq.com/s?__biz=MzIxNDc4MjEzNw==&mid=2247485673&idx=1&sn=1e50c7425042b01f6fda4ecb8441bf97)
 - [是什么事让尤大如此生气？](http://mp.weixin.qq.com/s?__biz=MzIxNDc4MjEzNw==&mid=2247485612&idx=1&sn=c45e348008ab6309cd0b234dd214337d)
 - [看完尤雨溪338条知乎回答后，我突然找到了前进的方向](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247505281&idx=1&sn=9f6fb2a3ff2f115da25ab16a14e20941)
 - [7年技术写作，分享6点心得体会](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247494710&idx=2&sn=64b1f609909de6071e1b52e3eefc85ac)
 - [悼念前端大牛司徒正美](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650742033&idx=1&sn=6195b1f7d9e48edcf39fad5de822dcd1)
+- [如果孩子不想读书，请带他看这部片：没有选择的人生到底有多可怕！](https://www.sohu.com/a/667135104_113138)
 - []()
 
 ## 其它

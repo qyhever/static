@@ -1,0 +1,53 @@
+GIT仓库账号：1026 初始密码：88888888
+
+http://47.98.175.207
+
+
+商城小程序代码仓库：（开发分支：feature）（uniapp微信小程序+Vue2）
+http://47.105.180.122:90/f8/xwf8shoppingmallwechatcode.git
+
+后台管理页面代码仓库：（开发分支：feature）（Vue3+ElementUIPlus）
+http://47.105.180.122:90/f8/xwf8bscode.git
+
+移动报表小程序代码仓库：（开发分支：feature）（uniapp微信小程序+Vue2+echarts）
+http://47.105.180.122:90/mobileshopassistant/msawechatcode.git
+
+前端任务，蓝湖地址，接口文档地址：
+【腾讯文档】专题页面样式优化
+https://docs.qq.com/sheet/DRXhSZ3VvUWZ4ZmlB?tab=zvdpve?scene=f33518f519b25bda27833845bD8ro1
+
+F8后台以及商城小程序蓝湖地址：
+https://share.lanhuapp.com/#/invite?sid=lX08lCsb
+分享人: shuang0508
+蓝湖团队: fabriziozhu的团队
+相关项目: F8微商城
+链接有效期: 20221124~20221208
+
+移动报表蓝湖地址:
+https://share.lanhuapp.com/#/invite?sid=lXvMGZH7
+分享人: shuang0508
+蓝湖团队: fabriziozhu的团队
+相关项目: 移动门店（手机端）
+链接有效期: 20221124~20221208
+
+F8老系统地址：https://xls2020.com/E3_CSAdmin/UserAdmins/Frame/UserLogin.aspx
+用户名：admin 密码：8888
+
+新后台系统地址：https://www.xls2020.com/XWSaaS_Admin/#/login
+账号登录：公司：演示客户 账号：HHH 密码空
+
+2023-4-4更新登录账号
+http://42.193.3.91:8076
+手机号登录：
+19871766687
+密码：8888
+
+账号密码登录：
+公司：F8公司(IPOS)
+账号：admin
+密码：8888
+
+导购助手：18193122450
+13451225026
+18194192939
+13102349994

@@ -667,6 +667,9 @@
 - [运行时💎？还是编译时🚀？前端框架的角斗场🛡](https://juejin.cn/post/7242507636699250746)
 - [2023年最值得期待的20个CSS框架：揭示未来的设计风潮](https://juejin.cn/post/7235906458885701687)
 - [超出你的想象！让单行文本显示...不再只是CSS和JavaScript的事情](https://juejin.cn/post/7231986666511433783)
+- [在ECharts的tooltip中使用Vue组件](https://juejin.cn/post/7262312427763990588)
+- [Git rebase和merge区别详解](https://juejin.cn/post/7262285515919179836)
+- [JS如何判断文字被ellipsis了？](https://juejin.cn/post/7262280335978741797)
 - []()
 
 ## v2ex
@@ -676,6 +679,12 @@
 - [30 岁从大厂裸辞全家搬往英国的故事](https://v2ex.com/t/956323)
 - [分享低价从深圳过香港的选择](https://v2ex.com/t/956605)
 - [7大香港银行卡开户门槛及攻略！ ](https://www.sohu.com/a/638204925_120528939)
+- [很多东西都能从进化里面找到答案，比如你为什么不想看书](https://v2ex.com/t/959486)
+- [小程序抓包](https://v2ex.com/t/959643)
+- [上班族孕妇吃饭该怎么解决呢](https://v2ex.com/t/959497)
+- [8年时间开发国产telegram](https://v2ex.com/t/962266)
+- [Mysql 数据库分库分表的问题](https://v2ex.com/t/967364)
+- [现在数据库连接工具应该选择什么呢](https://v2ex.com/t/968163)
 - []()
 
 ## en

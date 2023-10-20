@@ -553,6 +553,7 @@
 - [怎么让元素根据X,Y坐标按照圆形排列啊？](https://segmentfault.com/q/1010000043792203)
 - [图片热区 Picture hot zone](https://segmentfault.com/a/1190000040512881)
 - [实现装修页面组件拖拽（热区）](https://juejin.cn/post/7202479313227759676)
+- [CSS 实现优惠券的技巧](https://segmentfault.com/a/1190000039742398)
 - []()
 
 ## 单元测试
@@ -661,6 +662,7 @@
 - [深度剖析Vite配置文件](https://segmentfault.com/a/1190000043964906)
 - [Flexible.js在进行缩放的时候会改变所有字体大小吗？](https://segmentfault.com/q/1010000044045373)
 - [函数变动曲线图](https://segmentfault.com/q/1010000044046310)
+- [react hooks useState值为什么没有生效？](https://segmentfault.com/q/1010000044317960)
 - []()
 
 ## juejin
@@ -670,6 +672,8 @@
 - [在ECharts的tooltip中使用Vue组件](https://juejin.cn/post/7262312427763990588)
 - [Git rebase和merge区别详解](https://juejin.cn/post/7262285515919179836)
 - [JS如何判断文字被ellipsis了？](https://juejin.cn/post/7262280335978741797)
+- [24 届行情就是这样，旱的旱死涝的涝死](https://juejin.cn/post/7291479799519395895)
+- [25k大专前端外包从深圳回武汉面经？](https://juejin.cn/post/7275225948453568552)
 - []()
 
 ## v2ex
@@ -685,6 +689,9 @@
 - [8年时间开发国产telegram](https://v2ex.com/t/962266)
 - [Mysql 数据库分库分表的问题](https://v2ex.com/t/967364)
 - [现在数据库连接工具应该选择什么呢](https://v2ex.com/t/968163)
+- [介绍一下 editablejs 一款支持多人协作的富文本编辑器](https://v2ex.com/t/971288)
+- [老生常谈之英语学习](https://v2ex.com/t/972588)
+- [有没有必要考个非全日制硕士](https://v2ex.com/t/961019)
 - []()
 
 ## en

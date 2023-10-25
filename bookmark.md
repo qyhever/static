@@ -663,6 +663,8 @@
 - [Flexible.js在进行缩放的时候会改变所有字体大小吗？](https://segmentfault.com/q/1010000044045373)
 - [函数变动曲线图](https://segmentfault.com/q/1010000044046310)
 - [react hooks useState值为什么没有生效？](https://segmentfault.com/q/1010000044317960)
+- [React 的 reduxjs/toolkit 在 typescript 报错的原因？](https://segmentfault.com/q/1010000044332090)
+- [微信防止封禁小程序和 h5 链接](https://segmentfault.com/q/1010000044225245)
 - []()
 
 ## juejin
@@ -674,6 +676,8 @@
 - [JS如何判断文字被ellipsis了？](https://juejin.cn/post/7262280335978741797)
 - [24 届行情就是这样，旱的旱死涝的涝死](https://juejin.cn/post/7291479799519395895)
 - [25k大专前端外包从深圳回武汉面经？](https://juejin.cn/post/7275225948453568552)
+- [妙用computed拦截v-model](https://juejin.cn/post/7277089907974422588)
+- [ts封装axios的两种方式](https://juejin.cn/post/7293122369652310027)
 - []()
 
 ## v2ex

@@ -665,6 +665,7 @@
 - [react hooks useState值为什么没有生效？](https://segmentfault.com/q/1010000044317960)
 - [React 的 reduxjs/toolkit 在 typescript 报错的原因？](https://segmentfault.com/q/1010000044332090)
 - [微信防止封禁小程序和 h5 链接](https://segmentfault.com/q/1010000044225245)
+- [vuessr如何使用axios携带用户信息请求API?](https://segmentfault.com/q/1010000044325787)
 - []()
 
 ## juejin
@@ -678,6 +679,9 @@
 - [25k大专前端外包从深圳回武汉面经？](https://juejin.cn/post/7275225948453568552)
 - [妙用computed拦截v-model](https://juejin.cn/post/7277089907974422588)
 - [ts封装axios的两种方式](https://juejin.cn/post/7293122369652310027)
+- [webpack和vite搭积木](https://juejin.cn/post/7267791228872671247)
+- [全栈博客项目(vue3+nest)](https://juejin.cn/post/7280000052222951465)
+- [可视化大屏：autofit.js 一行搞定自适应](https://juejin.cn/post/7224015103481118757)
 - []()
 
 ## v2ex
@@ -696,6 +700,7 @@
 - [介绍一下 editablejs 一款支持多人协作的富文本编辑器](https://v2ex.com/t/971288)
 - [老生常谈之英语学习](https://v2ex.com/t/972588)
 - [有没有必要考个非全日制硕士](https://v2ex.com/t/961019)
+- [多个项目不同的 NodeJS 版本自动切换?](https://v2ex.com/t/985260)
 - []()
 
 ## en

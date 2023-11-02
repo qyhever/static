@@ -666,6 +666,7 @@
 - [React 的 reduxjs/toolkit 在 typescript 报错的原因？](https://segmentfault.com/q/1010000044332090)
 - [微信防止封禁小程序和 h5 链接](https://segmentfault.com/q/1010000044225245)
 - [vuessr如何使用axios携带用户信息请求API?](https://segmentfault.com/q/1010000044325787)
+- [免费下载字体包的网站？](https://segmentfault.com/q/1010000044343566)
 - []()
 
 ## juejin
@@ -682,6 +683,7 @@
 - [webpack和vite搭积木](https://juejin.cn/post/7267791228872671247)
 - [全栈博客项目(vue3+nest)](https://juejin.cn/post/7280000052222951465)
 - [可视化大屏：autofit.js 一行搞定自适应](https://juejin.cn/post/7224015103481118757)
+- [websocket的心跳机制](https://juejin.cn/post/7290005438153867283)
 - []()
 
 ## v2ex
@@ -701,6 +703,7 @@
 - [老生常谈之英语学习](https://v2ex.com/t/972588)
 - [有没有必要考个非全日制硕士](https://v2ex.com/t/961019)
 - [多个项目不同的 NodeJS 版本自动切换?](https://v2ex.com/t/985260)
+- [香港银行卡开户经验分享](https://v2ex.com/t/985750)
 - []()
 
 ## en

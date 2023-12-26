@@ -375,6 +375,7 @@
 - [很多人上来就删除的package-lock.json，还有这么多你不知道的！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247492105&idx=2&sn=51cc165ddcbef7d73ac07e51395f5d1b)
 - [NPM这6个有趣实用的知识点，你知道几个？](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247495098&idx=1&sn=f106867dd42a2465f09aff2704295427)
 - [规范升级 NPM 包](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247487663&idx=1&sn=cf128a91ba3fd1335accf86afcf0014c)
+- [FNM](https://juejin.cn/post/7312060958171709459)
 - []()
 ### orm
 - [现代 Nodejs ORM 库 Prisma 的使用详解](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500154&idx=2&sn=4b183c6dab72c9176f4750f7c25e1a44)
@@ -586,6 +587,7 @@
 - [Markdown 写 PPT 是如何实现的？](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247500602&idx=1&sn=4b226bf0d0113aa49ebd4f10803d4a55)
 - [浅谈文档的实时协同编辑](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609361&idx=1&sn=556f4764480dff6b285a278bab2a25c6)
 - [开发弹窗，你使用状态驱动还是命令式？](https://juejin.cn/post/7182393187917365305)
+- [如何破解滑动验证码](https://mp.weixin.qq.com/s/iK_JkVRrh5vIRBjnQbDOyw)
 - []()
 
 ## 国际化
@@ -667,6 +669,9 @@
 - [微信防止封禁小程序和 h5 链接](https://segmentfault.com/q/1010000044225245)
 - [vuessr如何使用axios携带用户信息请求API?](https://segmentfault.com/q/1010000044325787)
 - [免费下载字体包的网站？](https://segmentfault.com/q/1010000044343566)
+- [git 使用 cherry-pick 之后再进行合并，出现重复的 commit，有什么替代的方法吗？](https://segmentfault.com/q/1010000044373594)
+- [iPhoneX安全区域(Safe Area)底部小黑条在微信小程序和H5的屏幕适配](https://segmentfault.com/a/1190000022191869)
+- [关于OSS存储图片的问题？](https://segmentfault.com/q/1010000044459830)
 - []()
 
 ## juejin
@@ -704,6 +709,12 @@
 - [有没有必要考个非全日制硕士](https://v2ex.com/t/961019)
 - [多个项目不同的 NodeJS 版本自动切换?](https://v2ex.com/t/985260)
 - [香港银行卡开户经验分享](https://v2ex.com/t/985750)
+- [一周过去了，通义灵码的效果怎么样](https://v2ex.com/t/990506)
+- [老哥们 来个能访问的 gpt 啊](https://v2ex.com/t/991971)
+- [个人使用小米 14 对比 iphone13](https://v2ex.com/t/1001361)
+- [我的家庭万兆网络升级之路](https://v2ex.com/t/1001737)
+- [本地文件批量重命名，现在可以用 web 实现了](https://v2ex.com/t/1001486)
+- [uniapp、flutter 和原生，用户体验差距到底有多大 ？](https://v2ex.com/t/1002615)
 - []()
 
 ## en

@@ -689,6 +689,7 @@
 - [全栈博客项目(vue3+nest)](https://juejin.cn/post/7280000052222951465)
 - [可视化大屏：autofit.js 一行搞定自适应](https://juejin.cn/post/7224015103481118757)
 - [websocket的心跳机制](https://juejin.cn/post/7290005438153867283)
+- [封装一个工作日历组件，顺便复习一下Date常用方法](https://juejin.cn/post/7308948738659155983)
 - []()
 
 ## v2ex
@@ -715,6 +716,7 @@
 - [我的家庭万兆网络升级之路](https://v2ex.com/t/1001737)
 - [本地文件批量重命名，现在可以用 web 实现了](https://v2ex.com/t/1001486)
 - [uniapp、flutter 和原生，用户体验差距到底有多大 ？](https://v2ex.com/t/1002615)
+- [红米手机刷原生安卓系统](https://v2ex.com/t/1005718)
 - []()
 
 ## en

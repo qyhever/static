@@ -96,6 +96,7 @@
 - [juejin](#juejin)
 - [v2ex](#v2ex)
 - [en](#en)
+- [music](#music)
 
 ## 会议
 - [可复用的Vue3组合式API(VCA)函数](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247153&idx=1&sn=91c61383f7bee42554e47ee76551653e)
@@ -681,6 +682,7 @@
 - [在ECharts的tooltip中使用Vue组件](https://juejin.cn/post/7262312427763990588)
 - [Git rebase和merge区别详解](https://juejin.cn/post/7262285515919179836)
 - [JS如何判断文字被ellipsis了？](https://juejin.cn/post/7262280335978741797)
+- [Vue小知识- 问题解决-tooltip组件封装](https://juejin.cn/post/7025248628868382728)
 - [24 届行情就是这样，旱的旱死涝的涝死](https://juejin.cn/post/7291479799519395895)
 - [25k大专前端外包从深圳回武汉面经？](https://juejin.cn/post/7275225948453568552)
 - [妙用computed拦截v-model](https://juejin.cn/post/7277089907974422588)
@@ -717,6 +719,8 @@
 - [本地文件批量重命名，现在可以用 web 实现了](https://v2ex.com/t/1001486)
 - [uniapp、flutter 和原生，用户体验差距到底有多大 ？](https://v2ex.com/t/1002615)
 - [红米手机刷原生安卓系统](https://v2ex.com/t/1005718)
+- [从零开始手把手教你学编程 Java](https://v2ex.com/t/1006599)
+- [过年回家送孩子们什么玩具好？](https://v2ex.com/t/1006952)
 - []()
 
 ## en
@@ -725,6 +729,11 @@
 - [我知道了！说I know还是I see？](https://mp.weixin.qq.com/s?__biz=MzI3NzEzMjgwNg==&mid=2651768199&idx=1&sn=d4936e136f43276ed8d1cd2ebea69f93)
 - []()
 
+## music
+- [Xtina：只会干吼压舌根的美国胡叶新？](https://www.bilibili.com/read/cv6790526/)
+- [OMG，这些欧美女人这么这么火？（入圈常识向）](https://www.bilibili.com/read/cv6989400/)
+- [Christina Aguilera的《Stripped》 ](https://www.douban.com/group/topic/216362625)
+- []()
 
 李自成
 

@@ -297,6 +297,7 @@
 - [想要成为前端Star 吗？一首歌时间将React / Vue 应用Docker 化](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247488060&idx=1&sn=54e5382366c1186a363ab461e6276c30)
 - [前端部署和提效：从静态到node再到负载均衡基础篇](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247496390&idx=1&sn=b1d7a28e546236a30ffd6b36aed18adf)
 - [手把手教你搭建一个灰度发布环境](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649828622&idx=1&sn=67b867ae0e47b72ec67c8e87e4379d9f)
+- [使用 docker 来编排 Web 应用](https://v2ex.com/t/992298)
 - []()
 
 ## 构建
@@ -673,6 +674,8 @@
 - [git 使用 cherry-pick 之后再进行合并，出现重复的 commit，有什么替代的方法吗？](https://segmentfault.com/q/1010000044373594)
 - [iPhoneX安全区域(Safe Area)底部小黑条在微信小程序和H5的屏幕适配](https://segmentfault.com/a/1190000022191869)
 - [关于OSS存储图片的问题？](https://segmentfault.com/q/1010000044459830)
+- [后台管理路由跳转回来怎么保留搜索表单参数？](https://segmentfault.com/q/1010000044701685)
+- [react-routerV6路由配置时loader函数耗时太长,导致白屏怎么解决?](https://segmentfault.com/q/1010000044662382)
 - []()
 
 ## juejin
@@ -683,6 +686,7 @@
 - [Git rebase和merge区别详解](https://juejin.cn/post/7262285515919179836)
 - [JS如何判断文字被ellipsis了？](https://juejin.cn/post/7262280335978741797)
 - [Vue小知识- 问题解决-tooltip组件封装](https://juejin.cn/post/7025248628868382728)
+- [js如何实现当文本内容过长时，中间显示省略号...,两端正常展示](https://juejin.cn/post/7329967013923962895)
 - [24 届行情就是这样，旱的旱死涝的涝死](https://juejin.cn/post/7291479799519395895)
 - [25k大专前端外包从深圳回武汉面经？](https://juejin.cn/post/7275225948453568552)
 - [妙用computed拦截v-model](https://juejin.cn/post/7277089907974422588)
@@ -692,6 +696,11 @@
 - [可视化大屏：autofit.js 一行搞定自适应](https://juejin.cn/post/7224015103481118757)
 - [websocket的心跳机制](https://juejin.cn/post/7290005438153867283)
 - [封装一个工作日历组件，顺便复习一下Date常用方法](https://juejin.cn/post/7308948738659155983)
+- [用得上的Vue3的经验/技巧](https://juejin.cn/post/7237308635926757431)
+- [为什么忘记密码时只能重设，不把旧密码告诉我？](https://juejin.cn/post/7330922611512262671)
+- [unibest, 2024年最好用的 uniapp 开发模板](https://juejin.cn/post/7329034439408615451)
+- [vscode常用配置](https://juejin.cn/post/7344573753538789430)
+- [大屏布局和封装 autofit.js](https://juejin.cn/post/7344625554530779176)
 - []()
 
 ## v2ex
@@ -712,6 +721,7 @@
 - [有没有必要考个非全日制硕士](https://v2ex.com/t/961019)
 - [多个项目不同的 NodeJS 版本自动切换?](https://v2ex.com/t/985260)
 - [香港银行卡开户经验分享](https://v2ex.com/t/985750)
+- [最近还能去香港 walk in 开港卡吗？](https://v2ex.com/t/1020684)
 - [一周过去了，通义灵码的效果怎么样](https://v2ex.com/t/990506)
 - [老哥们 来个能访问的 gpt 啊](https://v2ex.com/t/991971)
 - [个人使用小米 14 对比 iphone13](https://v2ex.com/t/1001361)
@@ -726,6 +736,9 @@
 - [白噪音网站，工作或休息之余可以体验一下](https://v2ex.com/t/1009521)
 - [PC 端好用的免费听歌的软件](https://v2ex.com/t/1009522)
 - [虎牌电饭锅是不是智商税？](https://v2ex.com/t/1009604)
+- [目前抓包手机 app 的 https 网络请求最好的软件是什么？](https://v2ex.com/t/1011389)
+- [ios 上的记账软件](https://v2ex.com/t/1022462)
+- [在国内做独立开发者，门槛比情敌还高](https://v2ex.com/t/1025007)
 - []()
 
 ## en

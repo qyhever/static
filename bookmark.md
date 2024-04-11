@@ -701,6 +701,7 @@
 - [unibest, 2024年最好用的 uniapp 开发模板](https://juejin.cn/post/7329034439408615451)
 - [vscode常用配置](https://juejin.cn/post/7344573753538789430)
 - [大屏布局和封装 autofit.js](https://juejin.cn/post/7344625554530779176)
+- [ChatGPT4 升级失败怎么办](https://juejin.cn/post/7329772404645249043)
 - []()
 
 ## v2ex
@@ -739,6 +740,9 @@
 - [目前抓包手机 app 的 https 网络请求最好的软件是什么？](https://v2ex.com/t/1011389)
 - [ios 上的记账软件](https://v2ex.com/t/1022462)
 - [在国内做独立开发者，门槛比情敌还高](https://v2ex.com/t/1025007)
+- [用 Vue 仿了一个抖音](https://v2ex.com/t/1028678)
+- [买了一台二手的 m1 pro](https://v2ex.com/t/1029345)
+- [2024 年 4 月香港银行卡开户总结](https://v2ex.com/t/1030463)
 - []()
 
 ## en

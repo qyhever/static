@@ -46,6 +46,7 @@
 - [node](#node)
   - [node](#node-1)
   - [npm](#npm)
+  - [版本控制](#版本控制)
   - [orm](#orm)
 - [数据库](#数据库)
 - [权限控制](#权限控制)
@@ -367,6 +368,7 @@
 - [如何优化你的 Node.js API](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510495&idx=1&sn=c5746c804e9e1f5437b7fb74950f8297)
 - [安利下 fnm(Fast Node Manager)](https://www.v2ex.com/t/933615)
 - [快速入门 Redis 并在 Node.js 里操作它](https://juejin.cn/post/7224509497028558908)
+- [FNM](https://juejin.cn/post/7312060958171709459)
 - []()
 ### npm
 - [使用“黑魔法”优雅的修改第三方依赖包](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247497388&idx=1&sn=30198f77e5e30354188db4c9490d4b87)
@@ -377,8 +379,18 @@
 - [很多人上来就删除的package-lock.json，还有这么多你不知道的！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247492105&idx=2&sn=51cc165ddcbef7d73ac07e51395f5d1b)
 - [NPM这6个有趣实用的知识点，你知道几个？](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247495098&idx=1&sn=f106867dd42a2465f09aff2704295427)
 - [规范升级 NPM 包](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247487663&idx=1&sn=cf128a91ba3fd1335accf86afcf0014c)
-- [FNM](https://juejin.cn/post/7312060958171709459)
 - []()
+
+### 版本控制
+- [nvm](https://github.com/nvm-sh/nvm)
+- [nvs](https://github.com/jasongin/nvs)
+- [volta](https://github.com/volta-cli/volta)
+- [fnm](https://github.com/Schniz/fnm)
+- [n](https://github.com/tj/n)
+- [asdf](https://github.com/asdf-vm/asdf)
+- [vmr](https://github.com/gvcgo/version-manager) - 除了 node，还可管理多个编程语言环境版本
+- [vfox](https://github.com/version-fox/vfox) - 跨平台和可扩展的版本管理器，支持Java, Node.js, Flutter, .Net等
+
 ### orm
 - [现代 Nodejs ORM 库 Prisma 的使用详解](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247500154&idx=2&sn=4b183c6dab72c9176f4750f7c25e1a44)
 - []()
@@ -676,6 +688,12 @@
 - [后台管理路由跳转回来怎么保留搜索表单参数？](https://segmentfault.com/q/1010000044701685)
 - [react-routerV6路由配置时loader函数耗时太长,导致白屏怎么解决?](https://segmentfault.com/q/1010000044662382)
 - [如何在MySQL中按每5分钟间隔汇总一天的数据量？](https://segmentfault.com/q/1010000044835706)
+- [vue-cli transpileDependencies](https://segmentfault.com/q/1010000044875118)
+- [JWT引入后的问题及优化方案：无感续签与token失效管理？](https://segmentfault.com/q/1010000044878661)
+- [web页面如何显示emoji表情呢？](https://segmentfault.com/q/1010000004356514)
+- [web中emoji显示问题](https://segmentfault.com/q/1010000009930785)
+- [emoji表情的替换如何处理好一点](https://segmentfault.com/q/1010000008834976?utm_source=sf-similar-question)
+- [CSS 实现3d轮播图的一些思路](https://segmentfault.com/a/1190000045032476)
 - []()
 
 ## juejin
@@ -746,6 +764,12 @@
 - [使用 clash 上网时应对 dns 泄露的心得](https://v2ex.com/t/1034325)
 - [regexper.com铁路图](https://v2ex.com/t/1035414)
 - [网站图片存储方式](https://www.v2ex.com/t/12819)
+- [现在黑苹果应该已经走到尾声了吧](https://v2ex.com/t/1041507)
+- [摄影佬专用 ⌈相片集⌋，基于 Next.js 开发](https://v2ex.com/t/1041506)
+- [关于 iPhone 微信视频发热的问题，我好像找到了原因](https://www.v2ex.com/t/976578)
+- [Clash 消失之后，有什么类似的替代么？](https://v2ex.com/t/1050411)
+- [怎么全家科学，能加 ip 或设备黑白名单](https://www.v2ex.com/t/1055154)
+- [PC 端网站使用微信扫码登录](https://www.v2ex.com/t/1060802)
 - []()
 
 ## en

@@ -98,6 +98,7 @@
 - [v2ex](#v2ex)
 - [en](#en)
 - [music](#music)
+- [wechat](#wechat)
 
 ## 会议
 - [可复用的Vue3组合式API(VCA)函数](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247153&idx=1&sn=91c61383f7bee42554e47ee76551653e)
@@ -694,6 +695,7 @@
 - [web中emoji显示问题](https://segmentfault.com/q/1010000009930785)
 - [emoji表情的替换如何处理好一点](https://segmentfault.com/q/1010000008834976?utm_source=sf-similar-question)
 - [CSS 实现3d轮播图的一些思路](https://segmentfault.com/a/1190000045032476)
+- [感觉要学的东西也太多了吧](https://segmentfault.com/q/1010000045336183)
 - []()
 
 ## juejin
@@ -782,6 +784,24 @@
 - [Xtina：只会干吼压舌根的美国胡叶新？](https://www.bilibili.com/read/cv6790526/)
 - [OMG，这些欧美女人这么这么火？（入圈常识向）](https://www.bilibili.com/read/cv6989400/)
 - [Christina Aguilera的《Stripped》 ](https://www.douban.com/group/topic/216362625)
+- []()
+
+## wechat
+- [前端实现文本对比，并高亮显示差异](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247530302&idx=1&sn=72374a49cf7c5547a769581cc90cf3d1)
+- [React Native 终于妥协了, Expo](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247529608&idx=1&sn=2e1e8ded837fbc9d877504684e4ee2d0)
+- [替代 lodash 工具包：es-toolkit](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621100&idx=1&sn=785c94fc0e01af30d4d3aa7c07bc6002)
+- [知乎热议：为什么多数程序员都不做个人独立开发？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621218&idx=1&sn=abc5efa8b62d5b3aa65dee0318153b19)
+- [当你理解了孩子，孩子其实很好带](https://mp.weixin.qq.com/s?__biz=Mzg5NDc3NTczNQ==&mid=2247490253&idx=1&sn=faf66915f1884e24f9cc68a06d38763d)
+- [500元吃一个月，身体需要的真没那么多！](https://mp.weixin.qq.com/s?__biz=MzA3ODgxOTIxMg==&mid=2447792206&idx=1&sn=c219046772d2998d8a3c656ac7bbfae7)
+- [Vue 项目推荐使用这个图标库 vue-icons-plus](https://mp.weixin.qq.com/s?__biz=MzIwMTA4MDg1MA==&mid=2247484434&idx=1&sn=30b0b8b0dfd975662ca19513e86ff83e)
+- [10个你应该立即卸载的VS Code扩展](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247489694&idx=1&sn=63542d8dd4e5ef0154b4166e1429fe01)
+- [给我5分钟，保证教会你在vue3中动态加载远程组件](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247521041&idx=1&sn=8fe19162cee7f222d52bdd930d27b545)
+- [如何生成免费的HTTPS证书](https://mp.weixin.qq.com/s?__biz=Mzk0NTE2OTk2OA==&mid=2247484173&idx=1&sn=7dcf7b8d5a98cd271821be42d5e4cc13)
+- [使用ACME申请SSL证书](https://mp.weixin.qq.com/s?__biz=MzUyMjE3Njg4OA==&mid=2247486042&idx=1&sn=1ef2531c0279dd00fc029af5d39dd212)
+- [程序员最该拿的几种高含金量证书](https://mp.weixin.qq.com/s?__biz=Mzg5MzA3MjE0MA==&mid=2247491147&idx=1&sn=12aaca8c70f42b12cb6ebaf410313089)
+- [老弟想自己做个微信，被我一个问题劝退了](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247564184&idx=1&sn=f8fae253e30613baa1c64a8d67d0aeb7)
+- [用react手写一个简单的日历](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247521387&idx=2&sn=5aaccf3cb63c515eff8ff46fed5a216e)
+- [图片碎片化渲染特效实现](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649861714&idx=1&sn=8c93f60ea5d4c258e71871586745fc55)
 - []()
 
 李自成

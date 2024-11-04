@@ -802,6 +802,7 @@
 - [老弟想自己做个微信，被我一个问题劝退了](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247564184&idx=1&sn=f8fae253e30613baa1c64a8d67d0aeb7)
 - [用react手写一个简单的日历](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247521387&idx=2&sn=5aaccf3cb63c515eff8ff46fed5a216e)
 - [图片碎片化渲染特效实现](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649861714&idx=1&sn=8c93f60ea5d4c258e71871586745fc55)
+- [iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
 - []()
 
 李自成

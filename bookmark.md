@@ -775,7 +775,7 @@
 - []()
 
 ## en
-- [如何在六个月内掌握一门外语 | 克利斯•伦戴尔 ](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+- [如何在六个月内掌握一门外语-克利斯•伦戴尔 ](https://www.youtube.com/watch?v=d0yGdNEWdn0)
 - [2023，我私藏的英语学习工具](https://sspai.com/post/80086)
 - [我知道了！说I know还是I see？](https://mp.weixin.qq.com/s?__biz=MzI3NzEzMjgwNg==&mid=2651768199&idx=1&sn=d4936e136f43276ed8d1cd2ebea69f93)
 - []()
@@ -803,6 +803,7 @@
 - [用react手写一个简单的日历](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247521387&idx=2&sn=5aaccf3cb63c515eff8ff46fed5a216e)
 - [图片碎片化渲染特效实现](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649861714&idx=1&sn=8c93f60ea5d4c258e71871586745fc55)
 - [iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
+- [quill富文本工具栏添加行高配置](https://blog.csdn.net/weixin_45421249/article/details/127424279)
 - []()
 
 李自成

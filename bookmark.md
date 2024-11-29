@@ -696,6 +696,7 @@
 - [emoji表情的替换如何处理好一点](https://segmentfault.com/q/1010000008834976?utm_source=sf-similar-question)
 - [CSS 实现3d轮播图的一些思路](https://segmentfault.com/a/1190000045032476)
 - [感觉要学的东西也太多了吧](https://segmentfault.com/q/1010000045336183)
+- [前端弹窗组件，到底该怎么用？](https://segmentfault.com/q/1010000045479679)
 - []()
 
 ## juejin
@@ -722,6 +723,7 @@
 - [vscode常用配置](https://juejin.cn/post/7344573753538789430)
 - [大屏布局和封装 autofit.js](https://juejin.cn/post/7344625554530779176)
 - [ChatGPT4 升级失败怎么办](https://juejin.cn/post/7329772404645249043)
+- [软考高级一次过，我的备考经历分享](https://juejin.cn/post/7385025044730937383)
 - []()
 
 ## v2ex
@@ -772,7 +774,7 @@
 - [Clash 消失之后，有什么类似的替代么？](https://v2ex.com/t/1050411)
 - [怎么全家科学，能加 ip 或设备黑白名单](https://www.v2ex.com/t/1055154)
 - [PC 端网站使用微信扫码登录](https://www.v2ex.com/t/1060802)
-- [https://www.v2ex.com/t/1088447](现在有什么免费好用的音乐托管平台吗)
+- [现在有什么免费好用的音乐托管平台吗](https://www.v2ex.com/t/1088447)
 - []()
 
 ## en

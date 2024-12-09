@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>&#x4e2a;&#x7a0e;&#x8ba1;&#x7b97;</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="个税计算">个税计算</h1>
+<h3 id="税率表综合所得适用">税率表（综合所得适用）</h3>
+<table>
+<thead>
+<tr>
+<th>级数</th>
+<th>全年应纳税所得额</th>
+<th>税率（%）</th>
+<th>速算扣除数</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>不超过36000元的</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>超过36000元至144000元的部分</td>
+<td>10</td>
+<td>2520</td>
+</tr>
+<tr>
+<td>3</td>
+<td>超过144000元至300000元的部分</td>
+<td>20</td>
+<td>16920</td>
+</tr>
+<tr>
+<td>4</td>
+<td>超过300000元至420000元的部分</td>
+<td>25</td>
+<td>31920</td>
+</tr>
+<tr>
+<td>5</td>
+<td>超过420000元至660000元的部分</td>
+<td>30</td>
+<td>52920</td>
+</tr>
+<tr>
+<td>6</td>
+<td>超过660000元至960000元的部分</td>
+<td>35</td>
+<td>85920</td>
+</tr>
+<tr>
+<td>7</td>
+<td>超过960000元的部分</td>
+<td>45</td>
+<td>181920</td>
+</tr>
+</tbody>
+</table>
+<h3 id="计算示例">计算示例</h3>
+<p><strong>工资10000社保缴纳1000</strong></p>
+<ol>
+<li>(10000 - 5000 - 1000) *  0.03 = 120</li>
+<li>(20000 - 10000 - 2000) * 0.03 = 240</li>
+<li>(30000 - 15000 - 3000) * 0.03 = 360</li>
+<li>(40000 - 20000 - 4000) * 0.03 = 480</li>
+<li>(50000 - 25000 - 5000) * 0.03 = 600</li>
+<li>(60000 - 30000 - 6000) * 0.03 = 720</li>
+<li>(70000 - 35000 - 7000) * 0.03 = 840</li>
+<li>(80000 - 40000 - 8000) * 0.03 = 960</li>
+<li>(90000 - 45000 - 9000) * 0.03 = 1080</li>
+<li>(100000 - 50000 - 10000) * 0.1 - 2520 = 1480</li>
+<li>(110000 - 55000 - 11000) * 0.1 - 2520 = 1880</li>
+<li>(120000 - 60000 - 12000) * 0.1 - 2520 = 2280</li>
+</ol>
+<blockquote>
+<p>10月 累计应纳税所得额超过 36000， 需要按 2 级纳税</p>
+</blockquote>
+<p><strong>工资10000社保缴纳1000，住房贷款抵扣1000</strong></p>
+<ol>
+<li>(10000 - 5000 - 1000 - 1000) *  0.03 = 90</li>
+<li>(20000 - 10000 - 2000 - 2000) * 0.03 = 180</li>
+<li>(30000 - 15000 - 3000 - 3000) * 0.03 = 270</li>
+<li>(40000 - 20000 - 4000 - 4000) * 0.03 = 360</li>
+<li>(50000 - 25000 - 5000 - 5000) * 0.03 = 450</li>
+<li>(60000 - 30000 - 6000 - 6000) * 0.03 = 540</li>
+<li>(70000 - 35000 - 7000 - 7000) * 0.03 = 630</li>
+<li>(80000 - 40000 - 8000 - 8000) * 0.03 = 720</li>
+<li>(90000 - 45000 - 9000 - 9000) * 0.03 = 810</li>
+<li>(100000 - 50000 - 10000 - 10000) * 0.03 = 900</li>
+<li>(110000 - 55000 - 11000 - 11000) * 0.03 = 990</li>
+<li>(120000 - 60000 - 12000 - 12000) * 0.03 = 1080</li>
+</ol>
+<blockquote>
+<p>年度累计应纳税所得额不超过 36000，只需要按 1 级纳税</p>
+</blockquote>
+<p><strong>工资15000社保缴纳1000</strong></p>
+<ol>
+<li>(15000 - 5000 - 1000) *  0.03 = 270</li>
+<li>(30000 - 10000 - 2000) * 0.03 = 540</li>
+<li>(45000 - 15000 - 3000) * 0.03 = 810</li>
+<li>(60000 - 20000 - 4000) * 0.03 = 1080</li>
+<li>(75000 - 25000 - 5000) * 0.1 - 2520 = 1980</li>
+<li>(90000 - 30000 - 6000) * 0.1 - 2520 = 2880</li>
+<li>(105000 - 35000 - 7000) * 0.1 - 2520 = 3780</li>
+<li>(120000 - 40000 - 8000) * 0.1 - 2520 = 4680</li>
+<li>(135000 - 45000 - 9000) * 0.1 - 2520 = 5580</li>
+<li>(150000 - 50000 - 10000) * 0.1 - 2520 = 6480</li>
+<li>(165000 - 55000 - 11000) * 0.1 - 2520 = 7380</li>
+<li>(180000 - 60000 - 12000) * 0.1 - 2520 = 8280</li>
+</ol>
+<blockquote>
+<p>5月 累计应纳税所得额超过 36000， 需要按 2 级纳税</p>
+</blockquote>
+<p><strong>工资15000社保缴纳1000，住房贷款抵扣1000</strong></p>
+<ol>
+<li>(15000 - 5000 - 1000 - 1000) *  0.03 = 240</li>
+<li>(30000 - 10000 - 2000 - 2000) * 0.03 = 480</li>
+<li>(45000 - 15000 - 3000 - 3000) * 0.03 = 720</li>
+<li>(60000 - 20000 - 4000 - 4000) * 0.03 = 960</li>
+<li>(75000 - 25000 - 5000 - 5000) * 0.1 - 2520 = 1480</li>
+<li>(90000 - 30000 - 6000 - 6000) * 0.1 - 2520 = 2280</li>
+<li>(105000 - 35000 - 7000 - 7000) * 0.1 - 2520 = 3080</li>
+<li>(120000 - 40000 - 8000 - 8000) * 0.1 - 2520 = 3880</li>
+<li>(135000 - 45000 - 9000 - 9000) * 0.1 - 2520 = 4680</li>
+<li>(150000 - 50000 - 10000 - 10000) * 0.1 - 2520 = 5480</li>
+<li>(165000 - 55000 - 11000 - 11000) * 0.1 - 2520 = 6280</li>
+<li>(180000 - 60000 - 12000 - 12000) * 0.1 - 2520 = 7080</li>
+</ol>
+<blockquote>
+<p>5月 累计应纳税所得额超过 36000， 需要按 2 级纳税</p>
+</blockquote>
+<p><strong>工资20000社保缴纳1000</strong></p>
+<ol>
+<li>(20000 - 5000 - 1000) *  0.03 = 420</li>
+<li>(40000 - 10000 - 2000) * 0.03 = 840</li>
+<li>(60000 - 15000 - 3000) * 0.1 - 2520 = 1680</li>
+<li>(80000 - 20000 - 4000) * 0.1 - 2520 = 3080</li>
+<li>(100000 - 25000 - 5000) * 0.1 - 2520 = 4480</li>
+<li>(120000 - 30000 - 6000) * 0.1 - 2520 = 5880</li>
+<li>(140000 - 35000 - 7000) * 0.1 - 2520 = 7280</li>
+<li>(160000 - 40000 - 8000) * 0.1 - 2520 = 8680</li>
+<li>(180000 - 45000 - 9000) * 0.1 - 2520 = 10080</li>
+<li>(200000 - 50000 - 10000) * 0.1 - 2520 = 11480</li>
+<li>(220000 - 55000 - 11000) * 0.2 - 16920 = 13880</li>
+<li>(240000 - 60000 - 12000) * 0.2 - 16920 = 16680</li>
+</ol>
+<blockquote>
+<p>3月 累计应纳税所得额超过 36000， 需要按 2 级纳税<br>
+11月 累计应纳税所得额超过 144000， 需要按 3 级纳税</p>
+</blockquote>
+<p><strong>工资20000社保缴纳1000，住房贷款抵扣1000</strong></p>
+<ol>
+<li>(20000 - 5000 - 1000 - 1000) *  0.03 = 390</li>
+<li>(40000 - 10000 - 2000 - 2000) * 0.03 = 780</li>
+<li>(60000 - 15000 - 3000 - 3000) * 0.1 - 2520 = 1380</li>
+<li>(80000 - 20000 - 4000 - 4000) * 0.1 - 2520 = 2680</li>
+<li>(100000 - 25000 - 5000 - 5000) * 0.1 - 2520 = 3980</li>
+<li>(120000 - 30000 - 6000 - 6000) * 0.1 - 2520 = 5280</li>
+<li>(140000 - 35000 - 7000 - 7000) * 0.1 - 2520 = 6580</li>
+<li>(160000 - 40000 - 8000 - 8000) * 0.1 - 2520 = 7880</li>
+<li>(180000 - 45000 - 9000 - 9000) * 0.1 - 2520 = 9180</li>
+<li>(200000 - 50000 - 10000 - 10000) * 0.1 - 2520 = 10480</li>
+<li>(220000 - 55000 - 11000 - 11000) * 0.1 - 2520 = 11780</li>
+<li>(240000 - 60000 - 12000 - 12000) * 0.2 - 16920 = 14280</li>
+</ol>
+<blockquote>
+<p>3月 累计应纳税所得额超过 36000， 需要按 2 级纳税<br>
+12月 累计应纳税所得额超过 144000， 需要按 3 级纳税</p>
+</blockquote>
+
+            
+            
+        </body>
+        </html>

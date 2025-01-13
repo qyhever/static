@@ -724,6 +724,9 @@
 - [大屏布局和封装 autofit.js](https://juejin.cn/post/7344625554530779176)
 - [ChatGPT4 升级失败怎么办](https://juejin.cn/post/7329772404645249043)
 - [软考高级一次过，我的备考经历分享](https://juejin.cn/post/7385025044730937383)
+- [理解 Next.js 的 CSR、SSR、SSG、ISR、RSC、SPA、Streaming SSR 等概念](https://juejin.cn/post/7407259722430201867)
+- [Next.js 常见错误 Hydration Failed 该如何解决？](https://juejin.cn/post/7365793739892228096)
+- [Next.js全栈框架入门：带你一文搞定路由](https://juejin.cn/post/7426352106033004555)
 - []()
 
 ## v2ex

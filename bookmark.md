@@ -778,6 +778,11 @@
 - [怎么全家科学，能加 ip 或设备黑白名单](https://www.v2ex.com/t/1055154)
 - [PC 端网站使用微信扫码登录](https://www.v2ex.com/t/1060802)
 - [现在有什么免费好用的音乐托管平台吗](https://www.v2ex.com/t/1088447)
+- [大家好，三月底去云南，想咨询一下](https://www.v2ex.com/t/1110642)
+- [一个普通人的所有消费电子产品](https://www.v2ex.com/t/1110645)
+- [求推荐，收集深圳便宜宽带](https://www.v2ex.com/t/1110756)
+- [寻找 Node.js 后端工程师（远程工作）](https://www.v2ex.com/t/1110812)
+- [中文系 0 经验在新西兰成功拿到 QA 工作 offer](https://www.v2ex.com/t/1110814)
 - []()
 
 ## en

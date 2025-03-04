@@ -727,6 +727,7 @@
 - [理解 Next.js 的 CSR、SSR、SSG、ISR、RSC、SPA、Streaming SSR 等概念](https://juejin.cn/post/7407259722430201867)
 - [Next.js 常见错误 Hydration Failed 该如何解决？](https://juejin.cn/post/7365793739892228096)
 - [Next.js全栈框架入门：带你一文搞定路由](https://juejin.cn/post/7426352106033004555)
+- [分享4个动画库助你打造视觉盛宴](https://juejin.cn/post/7367696432935419944)
 - []()
 
 ## v2ex
@@ -783,6 +784,11 @@
 - [求推荐，收集深圳便宜宽带](https://www.v2ex.com/t/1110756)
 - [寻找 Node.js 后端工程师（远程工作）](https://www.v2ex.com/t/1110812)
 - [中文系 0 经验在新西兰成功拿到 QA 工作 offer](https://www.v2ex.com/t/1110814)
+- [盛年不重来，及时当勉励](https://www.v2ex.com/t/1114448)
+- [配眼镜，求 V 友们进来指点！](https://www.v2ex.com/t/1115271)
+- [广东联通宽带使用体验报告](https://www.v2ex.com/t/1115300)
+- [装机配置搞开发](https://www.v2ex.com/t/1115530)
+- [目前 golang 环境的正确搭建姿势](https://www.v2ex.com/t/1115694)
 - []()
 
 ## en

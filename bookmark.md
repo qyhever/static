@@ -789,6 +789,13 @@
 - [广东联通宽带使用体验报告](https://www.v2ex.com/t/1115300)
 - [装机配置搞开发](https://www.v2ex.com/t/1115530)
 - [目前 golang 环境的正确搭建姿势](https://www.v2ex.com/t/1115694)
+- [求推荐无套路大流量手机卡](https://www.v2ex.com/t/1100054)
+- [V 友们求推荐手机卡](https://www.v2ex.com/t/1116255)
+- [不同地点的两个宽带如何组成局域网](https://www.v2ex.com/t/1117909)
+- [连续几天出去野钓 睡车里](https://www.v2ex.com/t/1117990)
+- [软考有必要吗？报哪个含金量高一些](https://www.v2ex.com/t/1118148)
+- [嵌入式开发是很猛吗，后端开发能不能转](https://www.v2ex.com/t/1119339)
+- [美区 Apple ID ，中国大陆的信用卡？](https://www.v2ex.com/t/662281)
 - []()
 
 ## en
@@ -822,6 +829,10 @@
 - [iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
 - [quill富文本工具栏添加行高配置](https://blog.csdn.net/weixin_45421249/article/details/127424279)
 - []()
+
+- [移动萌龙卡](https://fenxiao.zmyiot.com/placeAnOrder/index/330321)
+- [移动金龙卡](https://fenxiao.zmyiot.com/placeAnOrder/index/330521)
+
 
 
 https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433  

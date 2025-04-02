@@ -728,6 +728,14 @@
 - [Next.js 常见错误 Hydration Failed 该如何解决？](https://juejin.cn/post/7365793739892228096)
 - [Next.js全栈框架入门：带你一文搞定路由](https://juejin.cn/post/7426352106033004555)
 - [分享4个动画库助你打造视觉盛宴](https://juejin.cn/post/7367696432935419944)
+- [React 的 KeepAlive 探索](https://juejin.cn/post/7374337202652626985)
+- [Go 实践分享（前端同学快速入门 Go）](https://juejin.cn/post/7298927417316884489)
+- [Go 语言快速入门](https://juejin.cn/post/7379262453728002063)
+- [从零开始基于go-zero的go web项目实战-01项目初始化](https://juejin.cn/post/7257333598469685306)
+- [基于go语言gin框架的web项目骨架](https://juejin.cn/post/7281601361985241088)
+- [对Golang一知半解？这里是上百篇掘金Golang优质文章｜ Go主题月](https://juejin.cn/post/6953073994383753223)
+- [从零开始基于go-zero的go web项目实战-01项目初始化](https://juejin.cn/post/7257333598469685306)
+- [手把手和你一起实现一个Web框架实战——EzWeb框架](https://juejin.cn/post/7093064227056779301)
 - []()
 
 ## v2ex
@@ -798,6 +806,8 @@
 - [美区 Apple ID ，中国大陆的信用卡？](https://www.v2ex.com/t/662281)
 - [香港开卡行程记录-2025 年 3 月 13 日](https://www.v2ex.com/t/1119766)
 - [兄弟们 大家平时都用类似大宝的润肤霜吗](https://www.v2ex.com/t/1119813)
+- [Redmi K40 刷了 Evolution X, 流畅丝滑清爽, 养老了](https://www.v2ex.com/t/1120034)
+- [前端 Coder 如何学习 Golang？](https://www.v2ex.com/t/1038414)
 - []()
 
 ## en

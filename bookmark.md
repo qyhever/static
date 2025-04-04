@@ -847,8 +847,10 @@
 
 
 
-https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433  
-https://tiansh.github.io/us-danmaku/bilibili/
+
+- b站弹幕接口:https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433
+- [bilibili弹幕在线转换XML->ASS](https://tiansh.github.io/us-danmaku/bilibili/)
+- [b站字幕转换ASS->SRT](https://www.dreamlyn.cn/html/bsrt.html)
 
 https://v0.dev/chat/SzYxxVMdzXQ?b=b_2JHT10BfQhl&f=0
 https://v0.dev/chat/nsBjmtxLp6I?b=b_6O0nZlj4Ywb&f=0

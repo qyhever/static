@@ -2,6 +2,18 @@ GIT仓库账号：1026 初始密码：88888888
 
 http://47.98.175.207
 
+F8智慧零售：（开发分支：feature）
+http://47.98.175.207:90/f8smartretail/f8smartretailweb.git
+admin 123456
+UI设计图：
+https://lanhuapp.com/web/#/item/project/stage?pid=27239def-281c-4af0-84d4-12fee9200fcd
+需求文档：
+https://docs.qq.com/sheet/DRWxSdHZDWk9hbkFC?scene=e80c8f0266d12bfb41cd1a730mr3u1&tab=BB08J2
+金蝶登录
+https://www.jdy.com/login/
+18315451834
+wqc010203@
+
 
 商城小程序代码仓库：（开发分支：feature）（uniapp微信小程序+Vue2）
 http://47.105.180.122:90/f8/xwf8shoppingmallwechatcode.git

@@ -697,6 +697,7 @@
 - [CSS 实现3d轮播图的一些思路](https://segmentfault.com/a/1190000045032476)
 - [感觉要学的东西也太多了吧](https://segmentfault.com/q/1010000045336183)
 - [前端弹窗组件，到底该怎么用？](https://segmentfault.com/q/1010000045479679)
+- [自定义vue指令-文本超出省略以及文字提示：v-ellipsis](https://segmentfault.com/a/1190000041997907)
 - []()
 
 ## juejin
@@ -729,6 +730,7 @@
 - [Next.js全栈框架入门：带你一文搞定路由](https://juejin.cn/post/7426352106033004555)
 - [分享4个动画库助你打造视觉盛宴](https://juejin.cn/post/7367696432935419944)
 - [React 的 KeepAlive 探索](https://juejin.cn/post/7374337202652626985)
+- [屠龙少年终成恶龙，前端转产品的我给前端挖了个坑](https://juejin.cn/post/7303798788720115749)
 - [Go 实践分享（前端同学快速入门 Go）](https://juejin.cn/post/7298927417316884489)
 - [Go 语言快速入门](https://juejin.cn/post/7379262453728002063)
 - [从零开始基于go-zero的go web项目实战-01项目初始化](https://juejin.cn/post/7257333598469685306)
@@ -736,6 +738,10 @@
 - [对Golang一知半解？这里是上百篇掘金Golang优质文章｜ Go主题月](https://juejin.cn/post/6953073994383753223)
 - [从零开始基于go-zero的go web项目实战-01项目初始化](https://juejin.cn/post/7257333598469685306)
 - [手把手和你一起实现一个Web框架实战——EzWeb框架](https://juejin.cn/post/7093064227056779301)
+- [TailwindCSS在vite项目中使用](https://juejin.cn/post/7222096611635658811)
+- [尤雨溪连发两条推特墙裂推荐的这些库你一定要知道！](https://juejin.cn/post/7484131071569772595)
+- [记录一下个人在用的 Mac 应用](https://juejin.cn/post/7384364492970639387)
+- [把网页变成一个App的几种方式探索](https://juejin.cn/post/7169224840170340366)
 - []()
 
 ## v2ex
@@ -808,6 +814,12 @@
 - [兄弟们 大家平时都用类似大宝的润肤霜吗](https://www.v2ex.com/t/1119813)
 - [Redmi K40 刷了 Evolution X, 流畅丝滑清爽, 养老了](https://www.v2ex.com/t/1120034)
 - [前端 Coder 如何学习 Golang？](https://www.v2ex.com/t/1038414)
+- [折腾了一套无痛阅读外网技术博客的玩意](https://www.v2ex.com/t/1125491)
+- [解决国内短信受限的办法分享](https://www.v2ex.com/t/1125510)
+- [如何以最低成本添加美区 apple id 的付款方式](https://www.v2ex.com/t/1125488)
+- [每个月的消费比想象的多](https://www.v2ex.com/t/1125622)
+- [推荐一个手机上无广告看 YouTube 的 app](https://www.v2ex.com/t/1125736)
+- [现在 flutter 的桌面端都这么成熟了吗？](https://www.v2ex.com/t/1005711)
 - []()
 
 ## en
@@ -820,6 +832,7 @@
 - [Xtina：只会干吼压舌根的美国胡叶新？](https://www.bilibili.com/read/cv6790526/)
 - [OMG，这些欧美女人这么这么火？（入圈常识向）](https://www.bilibili.com/read/cv6989400/)
 - [Christina Aguilera的《Stripped》 ](https://www.douban.com/group/topic/216362625)
+- [关于陶喆的音乐风格（有史以来最全面，最准确的解析）](https://tieba.baidu.com/p/827977838)
 - []()
 
 ## wechat
@@ -847,10 +860,8 @@
 
 
 
-
-- b站弹幕接口:https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433
-- [bilibili弹幕在线转换XML->ASS](https://tiansh.github.io/us-danmaku/bilibili/)
-- [b站字幕转换ASS->SRT](https://www.dreamlyn.cn/html/bsrt.html)
+https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433  
+https://tiansh.github.io/us-danmaku/bilibili/
 
 https://v0.dev/chat/SzYxxVMdzXQ?b=b_2JHT10BfQhl&f=0
 https://v0.dev/chat/nsBjmtxLp6I?b=b_6O0nZlj4Ywb&f=0

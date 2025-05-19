@@ -137,7 +137,6 @@
 
 ### atomic
 - [TailwindCSS v3.0 正式发布](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247488852&idx=1&sn=58cefc5e2ec74bf1e0bc4c21c3ead9c7)
-- [TailwindCSS的使用，看这一篇就够了！](https://zhengxiaoping.xyz/fullstack/TailwindCSS%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.html)
 - [不懂设计，也能用 Tailwind 制作出好看的网页](https://juejin.cn/post/7240846822465339449)
 - []()
 
@@ -370,6 +369,9 @@
 - [安利下 fnm(Fast Node Manager)](https://www.v2ex.com/t/933615)
 - [快速入门 Redis 并在 Node.js 里操作它](https://juejin.cn/post/7224509497028558908)
 - [FNM](https://juejin.cn/post/7312060958171709459)
+- [swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui)
+- [Swagger + Nest.js：打通全栈之路，API 文档生成的秘籍](https://juejin.cn/post/7330181444101488666)
+- [NestJS 认证与授权：JWT、OAuth 和 RBAC 实现](https://segmentfault.com/a/1190000045684590)
 - []()
 ### npm
 - [使用“黑魔法”优雅的修改第三方依赖包](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247497388&idx=1&sn=30198f77e5e30354188db4c9490d4b87)
@@ -738,10 +740,12 @@
 - [对Golang一知半解？这里是上百篇掘金Golang优质文章｜ Go主题月](https://juejin.cn/post/6953073994383753223)
 - [从零开始基于go-zero的go web项目实战-01项目初始化](https://juejin.cn/post/7257333598469685306)
 - [手把手和你一起实现一个Web框架实战——EzWeb框架](https://juejin.cn/post/7093064227056779301)
-- [TailwindCSS在vite项目中使用](https://juejin.cn/post/7222096611635658811)
 - [尤雨溪连发两条推特墙裂推荐的这些库你一定要知道！](https://juejin.cn/post/7484131071569772595)
 - [记录一下个人在用的 Mac 应用](https://juejin.cn/post/7384364492970639387)
 - [把网页变成一个App的几种方式探索](https://juejin.cn/post/7169224840170340366)
+- [TailwindCSS在vite项目中使用](https://juejin.cn/post/7222096611635658811)
+- [Tailwind CSS v4 移除 tailwindcss.config.js 后如何配置并进行主题切换](https://juejin.cn/post/7480450288421109787)
+- [Tailwind CSS v4深度解析](https://juejin.cn/post/7489778219190288436)
 - []()
 
 ## v2ex
@@ -820,6 +824,8 @@
 - [每个月的消费比想象的多](https://www.v2ex.com/t/1125622)
 - [推荐一个手机上无广告看 YouTube 的 app](https://www.v2ex.com/t/1125736)
 - [现在 flutter 的桌面端都这么成熟了吗？](https://www.v2ex.com/t/1005711)
+- [Java Spring 全家桶是哪些](https://www.v2ex.com/t/1131211)
+- [SSL 证书再有几年 47 天了，大家有什么自动化方案嘛](https://www.v2ex.com/t/1130748)
 - []()
 
 ## en

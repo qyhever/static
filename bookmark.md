@@ -99,6 +99,7 @@
 - [en](#en)
 - [music](#music)
 - [wechat](#wechat)
+- [AI](#ai-1)
 
 ## 会议
 - [可复用的Vue3组合式API(VCA)函数](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247153&idx=1&sn=91c61383f7bee42554e47ee76551653e)
@@ -347,6 +348,7 @@
 - [从项目规范（eslint + prettier）到自动化配置](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247496611&idx=2&sn=7ba1536cf7d61c4757e77c71ff0ae42f)
 - [vite插件实现骨架屏自动化](https://juejin.cn/post/7152406737100734495)
 - [一个 ESLint 插件，检查文件名是否符合指定规则](https://github.com/DukeLuo/eslint-plugin-check-file)
+- [2024年｜ESlint9+Prettier从0开始配置教程](https://juejin.cn/post/7402696141495779363)
 - []()
 
 ## 组件库
@@ -692,7 +694,6 @@
 - [react-routerV6路由配置时loader函数耗时太长,导致白屏怎么解决?](https://segmentfault.com/q/1010000044662382)
 - [如何在MySQL中按每5分钟间隔汇总一天的数据量？](https://segmentfault.com/q/1010000044835706)
 - [vue-cli transpileDependencies](https://segmentfault.com/q/1010000044875118)
-- [JWT引入后的问题及优化方案：无感续签与token失效管理？](https://segmentfault.com/q/1010000044878661)
 - [web页面如何显示emoji表情呢？](https://segmentfault.com/q/1010000004356514)
 - [web中emoji显示问题](https://segmentfault.com/q/1010000009930785)
 - [emoji表情的替换如何处理好一点](https://segmentfault.com/q/1010000008834976?utm_source=sf-similar-question)
@@ -700,6 +701,8 @@
 - [感觉要学的东西也太多了吧](https://segmentfault.com/q/1010000045336183)
 - [前端弹窗组件，到底该怎么用？](https://segmentfault.com/q/1010000045479679)
 - [自定义vue指令-文本超出省略以及文字提示：v-ellipsis](https://segmentfault.com/a/1190000041997907)
+- [JWT引入后的问题及优化方案：无感续签与token失效管理？](https://segmentfault.com/q/1010000044878661)
+- [在退出登录 / 修改密码时怎样实现JWT Token失效？](https://segmentfault.com/q/1010000010043871)
 - []()
 
 ## juejin
@@ -746,6 +749,9 @@
 - [TailwindCSS在vite项目中使用](https://juejin.cn/post/7222096611635658811)
 - [Tailwind CSS v4 移除 tailwindcss.config.js 后如何配置并进行主题切换](https://juejin.cn/post/7480450288421109787)
 - [Tailwind CSS v4深度解析](https://juejin.cn/post/7489778219190288436)
+- [低代码平台加载远端组件解决方案(1)——defineAsyncComponent](https://juejin.cn/post/7272621935006433316)
+- [低代码平台加载远端组件解决方案(2)——项目实战](https://juejin.cn/post/7275550543295742007)
+- [浅谈低代码平台远程组件加载方案](https://juejin.cn/post/7125727172718755877)
 - []()
 
 ## v2ex
@@ -826,6 +832,8 @@
 - [现在 flutter 的桌面端都这么成熟了吗？](https://www.v2ex.com/t/1005711)
 - [Java Spring 全家桶是哪些](https://www.v2ex.com/t/1131211)
 - [SSL 证书再有几年 47 天了，大家有什么自动化方案嘛](https://www.v2ex.com/t/1130748)
+- [小孩发烧你们是吃布洛芬观察 2 天还是立马送医院](https://www.v2ex.com/t/1133074)
+- [调研一下大家解析 Markdown 都用过什么库](https://www.v2ex.com/t/1133367)
 - []()
 
 ## en
@@ -863,6 +871,11 @@
 
 - [移动萌龙卡](https://fenxiao.zmyiot.com/placeAnOrder/index/330321)
 - [移动金龙卡](https://fenxiao.zmyiot.com/placeAnOrder/index/330521)
+
+
+## AI
+- [Cursor白嫖升级了，这回还支持Windsurf了！0.49.5版本老金亲测！](https://zhuanlan.zhihu.com/p/1899880873375044035)
+- []()
 
 
 

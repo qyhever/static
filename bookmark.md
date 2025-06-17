@@ -752,6 +752,7 @@
 - [低代码平台加载远端组件解决方案(1)——defineAsyncComponent](https://juejin.cn/post/7272621935006433316)
 - [低代码平台加载远端组件解决方案(2)——项目实战](https://juejin.cn/post/7275550543295742007)
 - [浅谈低代码平台远程组件加载方案](https://juejin.cn/post/7125727172718755877)
+- [AI 编程智能体深度剖析：Cursor 与 Cline 实战对决，谁更胜一筹？](https://juejin.cn/post/7465031850969858088)
 - []()
 
 ## v2ex
@@ -834,6 +835,10 @@
 - [SSL 证书再有几年 47 天了，大家有什么自动化方案嘛](https://www.v2ex.com/t/1130748)
 - [小孩发烧你们是吃布洛芬观察 2 天还是立马送医院](https://www.v2ex.com/t/1133074)
 - [调研一下大家解析 Markdown 都用过什么库](https://www.v2ex.com/t/1133367)
+- [阿里云 OSS 被用于诈骗网站](https://www.v2ex.com/t/1137419)
+- [golang 有没有可以根据不同 http 状态码，解析 json 到不同结构体的包](https://www.v2ex.com/t/1137327)
+- [阿里云 ecs 99 元一年](https://www.v2ex.com/t/1113749)
+- [好家伙阿里云杀疯了!](https://www.v2ex.com/t/1100573)
 - []()
 
 ## en

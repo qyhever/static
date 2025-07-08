@@ -100,6 +100,7 @@
 - [music](#music)
 - [wechat](#wechat)
 - [AI](#ai-1)
+- [docker](#docker)
 
 ## 会议
 - [可复用的Vue3组合式API(VCA)函数](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247153&idx=1&sn=91c61383f7bee42554e47ee76551653e)
@@ -885,6 +886,14 @@
 
 ## AI
 - [Cursor白嫖升级了，这回还支持Windsurf了！0.49.5版本老金亲测！](https://zhuanlan.zhihu.com/p/1899880873375044035)
+- []()
+
+## docker
+- [Docker 入门教程-阮一峰](https://juejin.cn/post/6844903561432662023)
+- [前端 Docker 入门之：Docker + Nginx 部署 Vue3 应用](https://juejin.cn/post/7449202769024630819)
+- [给前端写的Docker+Node+Nginx+Mongo的本地开发+部署实战](https://juejin.cn/post/6844904004296638478)
+- [Vue3+Nest全栈项目自动化部署：Github Actions + Docker的最佳实践](https://juejin.cn/post/7412548172453363764)
+- [使用Docker Compose、Nginx、SSH和Github Actions实现前端自动化部署测试机](https://juejin.cn/post/7028222480326066213)
 - []()
 
 

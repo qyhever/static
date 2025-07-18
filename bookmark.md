@@ -754,6 +754,8 @@
 - [低代码平台加载远端组件解决方案(2)——项目实战](https://juejin.cn/post/7275550543295742007)
 - [浅谈低代码平台远程组件加载方案](https://juejin.cn/post/7125727172718755877)
 - [AI 编程智能体深度剖析：Cursor 与 Cline 实战对决，谁更胜一筹？](https://juejin.cn/post/7465031850969858088)
+- [.gitattributes 正确使用姿势](https://juejin.cn/post/7084885453920272398)
+- [[译] 🙏 请把 .gitattributes 加入你的项目](https://juejin.cn/post/6844904062987550733)
 - []()
 
 ## v2ex
@@ -845,6 +847,8 @@
 - [是不是都用 expo-image 了，分享下 react-native-turbo-image](https://www.v2ex.com/t/1119917)
 - [本田混动思域，一年半 3.8 万公里用车费用分享](https://www.v2ex.com/t/1142930)
 - [在 cursor,trae 等 AI IDEA 编辑器里面，你们的提问有什么技巧](https://www.v2ex.com/t/1142920)
+- [有没有好吃的辣椒酱/粉、下饭菜推荐？](https://www.v2ex.com/t/1145781)
+- [claude code 针不戳啊](https://www.v2ex.com/t/1145732)
 - []()
 
 ## en
@@ -878,6 +882,7 @@
 - [图片碎片化渲染特效实现](https://mp.weixin.qq.com/s?__biz=MzI0MzIyMDM5Ng==&mid=2649861714&idx=1&sn=8c93f60ea5d4c258e71871586745fc55)
 - [iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
 - [quill富文本工具栏添加行高配置](https://blog.csdn.net/weixin_45421249/article/details/127424279)
+- [2025年7月如何足不出户注销粤通卡ETC？在深圳如何免费办粤通卡ETC？](https://mp.weixin.qq.com/s?src=11&timestamp=1752111609&ver=6103&signature=r8TWNu2HtkLVkzqsLNcMzX4MjJkGhYlSJi2aTnAmLqmGAQGSKhS93NYpNHImRQ6*KZBJ1axI*Ipekb7y5wTHL2mYTRq4OtcLS8z*C0sTuV6fTyoZ1YDABbQwsgYWQOr0&new=1)
 - []()
 
 - [移动萌龙卡](https://fenxiao.zmyiot.com/placeAnOrder/index/330321)

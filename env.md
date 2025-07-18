@@ -149,3 +149,48 @@ docker load -i node20-alpine.tar
 
 这样云服务器就有 node:20-alpine 镜像，无需在线拉取，可直接用于 Dockerfile 构建。  
 同理，nginx 镜像也可以这样操作。
+
+## java
+Java Spring Boot项目，使用Maven来构建和运行项目
+
+## 运行Java项目所需的环境
+
+### 1. 安装Java Development Kit (JDK)
+根据pom.xml中的配置，此项目需要Java 1.8版本：
+- 下载并安装JDK 8
+   - [TencentKona](https://github.com/Tencent/TencentKona-8)
+   - [OpenJDK](https://openjdk.org/)
+- 设置JAVA_HOME环境变量: `JAVA_HOME: d:\jdk-8.0.21-442`
+- 将Java的bin目录添加到PATH环境变量: `%JAVA_HOME%\bin`
+- cmd 运行`java -version`
+
+### 2. 安装Maven
+- 下载并安装[Apache Maven](https://maven.apache.org/download.cgi)
+- 设置MAVEN_HOME环境变量: `MAVEN_HOME: d:\apache-maven-3.9.11\bin`
+- 将Maven的bin目录添加到PATH环境变量: `%MAVEN_HOME%`
+- cmd 运行`mvn`
+
+
+## 安装完成后的运行步骤
+
+安装好Java和Maven后，可以通过以下命令运行项目：
+
+```shell
+# 切换到项目目录
+cd "xxx"
+
+# 清理并编译项目
+mvn clean compile
+
+# 运行项目
+mvn spring-boot:run
+```
+
+或者先打包项目：
+```shell
+# 打包项目
+mvn clean package -DskipTests
+
+# 运行打包后的jar文件
+java -jar target/project-name-0.0.1-SNAPSHOT.jar
+```

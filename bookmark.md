@@ -849,6 +849,10 @@
 - [在 cursor,trae 等 AI IDEA 编辑器里面，你们的提问有什么技巧](https://www.v2ex.com/t/1142920)
 - [有没有好吃的辣椒酱/粉、下饭菜推荐？](https://www.v2ex.com/t/1145781)
 - [claude code 针不戳啊](https://www.v2ex.com/t/1145732)
+- [在 V 站发现了好用的音乐工具，情不自禁地分享给更多的朋友](https://www.v2ex.com/t/1144953)
+- [程序员转行从事餐饮业近十年，有问必答](https://www.v2ex.com/t/1146449)
+- [求推荐 bilibili 音频播放器](https://www.v2ex.com/t/1146507)
+- [让你见识一下什么是真正的 Vibe Coding](https://www.v2ex.com/t/1148097)
 - []()
 
 ## en

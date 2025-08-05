@@ -1,0 +1,52 @@
+version: '3'
+
+services:
+  # qyhever博客服务 - 根路径访问
+  qyhever:
+    build:
+      context: ./qyhever
+      dockerfile: Dockerfile
+    container_name: qyhever
+    restart: unless-stopped
+    networks:
+      - app-network
+
+  # r3-admin-front前端服务 - /r3-admin路径访问
+  r3-admin-front:
+    build:
+      context: ./r3-admin-front
+      dockerfile: Dockerfile
+    container_name: r3-admin-front
+    restart: unless-stopped
+    networks:
+      - app-network
+
+  # r3-admin-server后端服务 - 为r3-admin-front提供API
+  r3-admin-server:
+    build:
+      context: ./r3-admin-server
+      dockerfile: Dockerfile
+    container_name: r3-admin-server
+    restart: unless-stopped
+    networks:
+      - app-network
+
+  # Nginx服务 - 作为反向代理，处理路由和请求转发
+  nginx:
+    image: nginx:stable-alpine
+    container_name: nginx-proxy
+    ports:
+      - '80:80'
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - qyhever
+      - r3-admin-front
+      - r3-admin-server
+    restart: unless-stopped
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

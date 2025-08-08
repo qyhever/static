@@ -756,6 +756,7 @@
 - [AI 编程智能体深度剖析：Cursor 与 Cline 实战对决，谁更胜一筹？](https://juejin.cn/post/7465031850969858088)
 - [.gitattributes 正确使用姿势](https://juejin.cn/post/7084885453920272398)
 - [[译] 🙏 请把 .gitattributes 加入你的项目](https://juejin.cn/post/6844904062987550733)
+- [只有 7 KB！前端圈疯传的 Vue3 转场动效神库！效果炸裂！Barba.js](https://juejin.cn/post/7532287059374506027)
 - []()
 
 ## v2ex
@@ -853,6 +854,9 @@
 - [程序员转行从事餐饮业近十年，有问必答](https://www.v2ex.com/t/1146449)
 - [求推荐 bilibili 音频播放器](https://www.v2ex.com/t/1146507)
 - [让你见识一下什么是真正的 Vibe Coding](https://www.v2ex.com/t/1148097)
+- [分享个大厂提供的获取当前 IP 信息的接口](https://www.v2ex.com/t/1150862)
+- [自建梯的老哥们，麻烦分享一下你们的方案](https://www.v2ex.com/t/1150876)
+- [腾讯云 7 月活动： 3 年轻量服务器](https://www.v2ex.com/t/1146544)
 - []()
 
 ## en
@@ -887,6 +891,7 @@
 - [iOS上使用iSH的git同步Obsidian](https://zhuanlan.zhihu.com/p/565028534)
 - [quill富文本工具栏添加行高配置](https://blog.csdn.net/weixin_45421249/article/details/127424279)
 - [2025年7月如何足不出户注销粤通卡ETC？在深圳如何免费办粤通卡ETC？](https://mp.weixin.qq.com/s?src=11&timestamp=1752111609&ver=6103&signature=r8TWNu2HtkLVkzqsLNcMzX4MjJkGhYlSJi2aTnAmLqmGAQGSKhS93NYpNHImRQ6*KZBJ1axI*Ipekb7y5wTHL2mYTRq4OtcLS8z*C0sTuV6fTyoZ1YDABbQwsgYWQOr0&new=1)
+- [藏在手机里的棋牌游戏，记录着县城的江湖秘密](https://www.thepaper.cn/newsDetail_forward_3077234)
 - []()
 
 - [移动萌龙卡](https://fenxiao.zmyiot.com/placeAnOrder/index/330321)

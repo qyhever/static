@@ -856,7 +856,10 @@
 - [让你见识一下什么是真正的 Vibe Coding](https://www.v2ex.com/t/1148097)
 - [分享个大厂提供的获取当前 IP 信息的接口](https://www.v2ex.com/t/1150862)
 - [自建梯的老哥们，麻烦分享一下你们的方案](https://www.v2ex.com/t/1150876)
-- [腾讯云 7 月活动： 3 年轻量服务器](https://www.v2ex.com/t/1146544)
+- [腾讯云 8 月活动](https://www.v2ex.com/t/1149582)
+- [家里局域网自动翻墙](https://www.v2ex.com/t/1151726)
+- [问一下，各位都是怎么稳定使用 claude code 的啊](https://www.v2ex.com/t/1151317)
+- [付不起订阅? 5 分钟 让你的 API 接入 Claude Code](https://www.v2ex.com/t/1151316)
 - []()
 
 ## en

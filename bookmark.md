@@ -760,8 +760,15 @@
 - [UnoCSS给了我一个不用tailwindcss的理由](https://juejin.cn/post/7244818201976078394)
 - [前端实现文件预览（pdf、excel、word、图片）](https://juejin.cn/post/7246609845272395837)
 - [当3D走进义乌购（Vue3+Pinia+Koa+Three.js 全栈项目）](https://juejin.cn/post/7251101434023624760)
-- []()
-- []()
+- [Vue Nice Modal 将 Vue.js 的 modal 组件转换为基于 Promise 的 API](https://juejin.cn/post/7250795237928599612)
+- [多行标签超出展开收起功能](https://juejin.cn/post/7251394142683742269)
+- [Next.js 作弊表](https://juejin.cn/post/7242198873866436665)
+- [在微信小程序里使用rpx遇到的坑](https://juejin.cn/post/7257516901843763257)
+- [React 组件库都是怎么打包的](https://juejin.cn/post/7277917854430674959)
+- [修改 git 的历史 commit，你能想到几种方案](https://juejin.cn/post/7287041017291374627)
+- [运维｜MySQL 数据库被黑，心力交瘁](https://juejin.cn/post/7287117489305337913)
+- [微信支付宝支付问题分享](https://www.cnblogs.com/fulongyuanjushi/p/17747776.html)
+- [产品经理：为什么你做的地图比以前丝滑了许多？](https://juejin.cn/post/7371633297153687606)
 - []()
 
 ## v2ex
@@ -865,8 +872,8 @@
 - [家里局域网自动翻墙](https://www.v2ex.com/t/1151726)
 - [问一下，各位都是怎么稳定使用 claude code 的啊](https://www.v2ex.com/t/1151317)
 - [付不起订阅? 5 分钟 让你的 API 接入 Claude Code](https://www.v2ex.com/t/1151316)
-- []()
-- []()
+- [有 go 的主力语言高手吗，目前泛型在 go 的新项目中鼓励使用吗](https://www.v2ex.com/t/1153500)
+- [不限语言，你觉得最好用的框架和 ORM 是什么？](https://www.v2ex.com/t/1153288)
 - []()
 - []()
 
@@ -921,7 +928,10 @@
 - [使用Docker Compose、Nginx、SSH和Github Actions实现前端自动化部署测试机](https://juejin.cn/post/7028222480326066213)
 - []()
 
-
+## UI
+- [超全面的移动端UI 设计规范整理汇总](http://www.uml.org.cn/jmshj/202307034.asp)
+- []()
+- []()
 
 https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433  
 https://tiansh.github.io/us-danmaku/bilibili/

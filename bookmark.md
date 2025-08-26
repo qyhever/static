@@ -415,6 +415,7 @@
 - [实现 Web 端指纹登录](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651579813&idx=2&sn=94a9c4e225696f3cf0c402991086cb80)
 - [设计一个安全的登录接口需要考虑哪些？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247497140&idx=2&sn=71baeb3f88b6cbf1f428075700041ceb)
 - [你管这破玩意儿叫 Token?](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247487528&idx=2&sn=33988249c825037bc7cd6879f9166410)
+- [如果面试被问到单点登录，你会怎么回答？](https://juejin.cn/post/7527505157976277019)
 - []()
 
 ### 权限
@@ -641,6 +642,7 @@
 
 ## go
 - [Go、React 和 esbuild 硬核实战](https://mp.weixin.qq.com/s?__biz=MzI2MjcxNTQ0Nw==&mid=2247497426&idx=2&sn=494fac68d8d0a5a69530706ea2180bb7)
+- [GORM 在项目中的初始化、重要连接参数和多数据源配置](https://juejin.cn/post/7474207685287936012)
 - []()
 
 ## java
@@ -927,6 +929,7 @@
 - [给前端写的Docker+Node+Nginx+Mongo的本地开发+部署实战](https://juejin.cn/post/6844904004296638478)
 - [Vue3+Nest全栈项目自动化部署：Github Actions + Docker的最佳实践](https://juejin.cn/post/7412548172453363764)
 - [使用Docker Compose、Nginx、SSH和Github Actions实现前端自动化部署测试机](https://juejin.cn/post/7028222480326066213)
+- [巧解Docker镜像拉取失败！无需梯子/服务器，无拉取数量限制！](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
 - []()
 
 ## UI

@@ -405,7 +405,7 @@
 - [一文理解 Redis 的核心原理与技术](https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652577942&idx=2&sn=d0d8b99b1d3dc19ad3297caeff9a59fa)
 - [MySQL:互联网公司常用分库分表方案汇总](https://mp.weixin.qq.com/s?__biz=MzI0OTU3ODA3OA==&mid=2247484756&idx=2&sn=655ecead0ba848a295f1d80e476a376e)
 - [1.8w 字的 SQL 优化大全](https://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652597900&idx=2&sn=ce9b052bdb9a8068b0c0edf64b98ec5f)
-- [为什么不建议你在 Docker 中跑 Mysql ?](https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247546111&idx=2&sn=27a1320f019a2440d7d1c54d68074723)
+- [为什么不建议你在 Docker 中跑 Mysql ?](https://juejin.cn/post/7550109326364655662)
 - [逻辑删除or物理删除](https://www.toutiao.com/w/1743272392075268/)
 - []()
 

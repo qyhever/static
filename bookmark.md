@@ -877,6 +877,8 @@
 - [付不起订阅? 5 分钟 让你的 API 接入 Claude Code](https://www.v2ex.com/t/1151316)
 - [有 go 的主力语言高手吗，目前泛型在 go 的新项目中鼓励使用吗](https://www.v2ex.com/t/1153500)
 - [不限语言，你觉得最好用的框架和 ORM 是什么？](https://www.v2ex.com/t/1153288)
+- [面试题：为什么 MySQL 不要使用 Docker 部署](https://www.v2ex.com/t/1160112)
+- [这个网站底部的粒子动画怎么做的](https://www.v2ex.com/t/1160190)
 - []()
 - []()
 

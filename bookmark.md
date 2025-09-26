@@ -932,6 +932,7 @@
 - [Vue3+Nest全栈项目自动化部署：Github Actions + Docker的最佳实践](https://juejin.cn/post/7412548172453363764)
 - [使用Docker Compose、Nginx、SSH和Github Actions实现前端自动化部署测试机](https://juejin.cn/post/7028222480326066213)
 - [巧解Docker镜像拉取失败！无需梯子/服务器，无拉取数量限制！](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
+- [前后端部署实战：Vue3+Vite+PNPM + NestJS + Docker + Nginx + 云效（阿里云）流水线蓝绿部署](https://juejin.cn/post/7533422972742533130)
 - []()
 
 ## UI

@@ -653,6 +653,7 @@
 ## 项目管理
 - [前端技术负责人知识图谱总结(可收藏为图片)](http://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458078644&idx=1&sn=608731d14f51f61a1cfaadd2c9ec03f3)
 - [【第2280期】突破web 应用研发效能的叹息之墙](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246074&idx=1&sn=963e6038cd66a72aa2c355aa59027ba9)
+- [项目实战 Day7】springboot + vue 苍穹外卖系统（微信小程序 + 微信登录模块 完结）](https://blog.csdn.net/weixin_61639349/article/details/152046780)
 - []()
 
 ## 产品

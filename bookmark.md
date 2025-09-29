@@ -941,6 +941,13 @@
 - []()
 - []()
 
+## 封装组件库
+- [如何在 npm 上发布 Element Plus 二次封装组件](https://juejin.cn/post/7529878398401101863)
+- [如何二次封装一个Vue3组件库？](https://juejin.cn/post/7307758328247353407)
+- [15分钟学会 pnpm monorepo+vue3+vite 搭建组件库并发布到私有仓库](https://juejin.cn/post/7212538330829996092)
+- [vite库模式](https://cn.vitejs.dev/guide/build.html#library-mode)
+- []()
+
 https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433  
 https://tiansh.github.io/us-danmaku/bilibili/
 

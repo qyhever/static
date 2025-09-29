@@ -948,6 +948,13 @@
 - [vite库模式](https://cn.vitejs.dev/guide/build.html#library-mode)
 - []()
 
+## mono
+- [高效前端工程化：Monorepo、pnpm与Vue3集成实战指南](https://juejin.cn/post/7368820207593406473)
+- [最佳实践 monorepo + pnpm + vue3 + element-plus 0-1 完整教程](https://juejin.cn/post/7233589699213869117)
+- [前端工程化😼开源项目都在用的【Monorepo】](https://juejin.cn/post/7285373518836826167)
+- [带你了解更全面的 Monorepo - 优劣、踩坑、选型](https://juejin.cn/post/7215886869199896637)
+- []()
+
 https://api.bilibili.com/x/v1/dm/list.so?oid=1614968433  
 https://tiansh.github.io/us-danmaku/bilibili/
 

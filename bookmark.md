@@ -924,7 +924,7 @@
 
 ## AI
 - [Cursor白嫖升级了，这回还支持Windsurf了！0.49.5版本老金亲测！](https://zhuanlan.zhihu.com/p/1899880873375044035)
-- []()
+- [github copilot 不支持 Claude 了？](https://www.v2ex.com/t/1161673)
 
 ## docker
 - [Docker 入门教程-阮一峰](https://juejin.cn/post/6844903561432662023)

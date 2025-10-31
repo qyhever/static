@@ -773,6 +773,9 @@
 - [运维｜MySQL 数据库被黑，心力交瘁](https://juejin.cn/post/7287117489305337913)
 - [微信支付宝支付问题分享](https://www.cnblogs.com/fulongyuanjushi/p/17747776.html)
 - [产品经理：为什么你做的地图比以前丝滑了许多？](https://juejin.cn/post/7371633297153687606)
+- [牺牲两天摸鱼时间，我做了款大屏](https://juejin.cn/post/7521986967103143972)
+- [同志们，我去外包了，面试问题](https://juejin.cn/post/7510055871465308212)
+- []()
 - []()
 
 ## v2ex

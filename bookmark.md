@@ -886,6 +886,8 @@
 - [V 站有熟悉企业注册流程的吗？独立开发者需要注册公司吗？](https://www.v2ex.com/t/1150673)
 - [今天允许我们晒一下博客吧](https://www.v2ex.com/t/1168103)
 - [有靠谱的 Claudecode 中转站推荐吗？](https://www.v2ex.com/t/1168511)
+- [六天川西小环线，我拍到了 N 次日照金山！](https://www.v2ex.com/t/1170640)
+- [帮你选择最快的 pip 镜像，告别安装慢](https://www.v2ex.com/t/1169670)
 - []()
 
 ## en

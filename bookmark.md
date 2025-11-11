@@ -888,6 +888,8 @@
 - [有靠谱的 Claudecode 中转站推荐吗？](https://www.v2ex.com/t/1168511)
 - [六天川西小环线，我拍到了 N 次日照金山！](https://www.v2ex.com/t/1170640)
 - [帮你选择最快的 pip 镜像，告别安装慢](https://www.v2ex.com/t/1169670)
+- [制作了一个 YouTube 的浏览器扩展](https://www.v2ex.com/t/1171815)
+- [20251105 赴港极限 12 小时特种兵开港卡实录](https://www.v2ex.com/t/1170786)
 - []()
 
 ## en

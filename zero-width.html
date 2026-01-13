@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <div style="margin-bottom: 20px;">
+      <input type="text" id="txt">
+    </div>
+    <div>
+      <button id="btn">Copy</button>
+    </div>
+  </div>
+  <script>
+    const copyText = (val) => {
+      if (navigator.clipboard && navigator.permissions) {
+        navigator.clipboard.writeText(val)
+      } else {
+        const textArea = document.createElement('textArea')
+        textArea.value = val
+        textArea.style.width = 0
+        textArea.style.position = 'fixed'
+        textArea.style.left = '-999px'
+        textArea.style.top = '10px'
+        textArea.setAttribute('readonly', 'readonly')
+        document.body.appendChild(textArea)
+
+        textArea.select()
+        document.execCommand('copy')
+        document.body.removeChild(textArea)
+      }
+    }
+    function addZ (str) {
+      let ret = ''
+      for (let i = 0; i < str.length; i++) {
+        ret += str[i] + '​'
+      }
+      return ret
+    }
+    document.getElementById('btn').addEventListener('click', function () {
+      const str = document.getElementById('txt').value
+      if (!str) {
+        return
+      }
+      const encodedStr = addZ(str)
+      copyText(encodedStr)
+      alert('Copy success!')
+    })
+  </script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+@hostname = 47.109.202.199
+@port = 8910
+@host = {{hostname}}:{{port}}
+@token = Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAwMDAwMDA3LTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsInRlbmFudGlkIjoiNzlmYWFkNDEtMWEyNC00OGI4LWFjNzEtMDZjMjQ3Zjg2YzMyIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvZ2l2ZW5uYW1lIjoiMDE4IiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6WyJicm9vayIsImJyb29rIl0sImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6IjE1Njg4ODg4ODg4QDE2My5jb20iLCJMb2dpblR5cGUiOiIwIiwiTW9iaWxlIjoiMTU2ODg4ODg4ODgiLCJVc2VyQ29kZSI6IjAxOCIsImp0aSI6IjcyMDBkMGMxLWM5OTAtNDlkNC1hOTYxLTM5N2I4Mjc5ODgwZSIsImV4cCI6MTc3MDgyNTIzNiwiaXNzIjoiRjhTbWFydFJldGFpbCIsImF1ZCI6IlN5c3RlbVNlcnZpY2VzIn0.BBN2SE_rvf1mCWOJ7sfwTvHrIVL8LlsgNVr3GHp0Ovg
+
+### 分页列表
+post http://{{host}}/bill/api/app/salesSettleSlip/getPagedList HTTP/1.1
+Authorization: {{token}}
+Content-Type: application/json
+
+{
+  "page": 1,
+  "pageSize": 20,
+  "queryModel": {
+    "keyword": "",
+    "billNo": "",
+    "channelCode": "",
+    "clientCode": "",
+    "bizDateBegin": "2025-02-11",
+    "bizDateEnd": "2026-02-11",
+    "billStates": ["1", "2"],
+    "oriBillNo": ""
+  }
+}
+
+### 新增
+post http://{{host}}/bill/api/app/salesSettleSlip/saveSalesSettleSlip HTTP/1.1
+Authorization: {{token}}
+Content-Type: application/json
+
+{
+  "billNo": "",
+  "bizDate": "2026-02-11",
+  "oriBillNo": "",
+  "channelCode": "000",
+  "clientCode": "000",
+  "billState": "",
+  "invoiceType": "YOH01",
+  "discount": 0,
+  "lastDay": "",
+  "stfCode": "LWQXYWY",
+  "beginDate": "2026-02-11",
+  "endDate": "2026-02-11",
+  "bizAmount": 0,
+  "realAmount": 0,
+  "diffAmount": 0,
+  "receivedAmount": 0,
+  "account": "0",
+  "settleup": "0",
+  "remark": "",
+  "billSource": "manual",
+  "accountor": "",
+  "accountDate": "",
+  "details": []
+}
+
+### 保存
+post http://{{host}}/bill/api/app/salesSettleSlip/saveSalesSettleSlip HTTP/1.1
+Authorization: {{token}}
+Content-Type: application/json
+
+{
+  "id": 6,
+  "billNo": "FKD00000006",
+  "bizDate": "2026-02-01",
+  "oriBillNo": "",
+  "channelCode": "000",
+  "supplierCode": "000",
+  "invoiceNo": "",
+  "paymentType": "1",
+  "fpmCode": "YOHFPM02",
+  "stfCode": "000",
+  "totalAmount": 1500,
+  "isUsePreAmount": "0",
+  "preAmount": 0,
+  "variablePreAmount": 0,
+  "remark": "re",
+  "billSource": "manual",
+  "billState": "1",
+  "account": " ",
+  "accountor": "",
+  "accountDate": null,
+  "details": [
+    {
+      "id": 0,
+      "billNo": "FKD00000006",
+      "billType": "purchase_entry",
+      "bizBillNo": "JH300000306",
+      "oriBillNo": "",
+      "bizDate": "2025-12-15",
+      "bizAmount": 1050,
+      "payedAmount": 0,
+      "balance": 0,
+      "currentPay": 1050,
+      "remark": "False"
+    },
+    {
+      "id": 0,
+      "billNo": "FKD00000006",
+      "billType": "purchase_return",
+      "bizBillNo": "JA600000284",
+      "oriBillNo": "",
+      "bizDate": "2026-01-14",
+      "bizAmount": 350,
+      "payedAmount": 0,
+      "balance": 0,
+      "currentPay": 350,
+      "remark": "False"
+    }
+  ],
+  "payDetails": [
+    {
+      "id": 0,
+      "billNo": "FKD00000006",
+      "faCode": "YOH01",
+      "faName": "紫01",
+      "currentPay": 1500,
+      "remark": ""
+    }
+  ]
+}
